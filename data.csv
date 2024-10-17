@@ -1,0 +1,2222 @@
+﻿Timestamp,Sex,University,collage,Hour_fees,Grade,Year,Absence,teacher_interest,external_sources,Friends,Friends_Absence,Teams,University_Activities,Family_Issues
+11/7/2023 22:54,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,No,No,Yes,No
+11/7/2023 22:59,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/7/2023 23:59,M,ZUJ,Information Technology,(45 - 80) JD,A,2,No,No,No,No,Yes,No,No,No
+11/8/2023 12:07,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/8/2023 12:08,M,HU,Information Technology,(80+) JD,B,2,Yes,No,Yes,Yes,No,No,Yes,No
+11/8/2023 12:14,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 12:16,M,HU,Information Technology,(80+) JD,C,3,No,No,Yes,No,Yes,No,No,No
+11/8/2023 12:21,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+11/8/2023 12:21,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,No,Yes,Yes,No,No,Yes,No
+11/8/2023 12:21,M,HU,Information Technology,(80+) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 12:21,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,No,No,No,No,No,No,No
+11/8/2023 12:22,F,HU,Information Technology,(45 - 80) JD,B,3,No,Yes,No,Yes,Yes,No,No,No
+11/8/2023 12:22,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 12:22,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 12:23,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,No,No,Yes,No,Yes,No
+11/8/2023 12:24,M,HU,Information Technology,(80+) JD,C,2,No,No,No,No,No,No,No,No
+11/8/2023 12:25,M,HU,Information Technology,(80+) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 12:25,F,HU,Information Technology,(80+) JD,C,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 12:26,F,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 12:27,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,No,Yes,No
+11/8/2023 12:27,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 12:27,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 12:29,F,HU,Science,(10 - 40) JD,B,3,Yes,No,Yes,No,No,No,Yes,No
+11/8/2023 12:31,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 12:38,F,HU,Information Technology,(45 - 80) JD,B,3,No,No,No,No,No,No,Yes,No
+11/8/2023 12:38,M,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/8/2023 12:39,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,No,No,Yes,No,Yes,No
+11/8/2023 12:43,M,HU,Information Technology,(45 - 80) JD,D,3,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 12:43,F,HU,Educational Sciences,(10 - 40) JD,B,4,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 12:46,M,HU,Information Technology,(45 - 80) JD,B,3,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 12:46,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,No,No,No,No,Yes
+11/8/2023 12:46,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 12:47,F,HU,Information Technology,(45 - 80) JD,A,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 12:47,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,No,No,Yes
+11/8/2023 12:48,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 12:49,F,HU,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 12:50,M,ZUJ,Business,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 12:51,M,ZUJ,Science,(45 - 80) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 12:51,M,ZUJ,Information Technology,(45 - 80) JD,C,2,Yes,No,Yes,Yes,Yes,No,Yes,No
+11/8/2023 12:52,F,ZUJ,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 12:53,M,HU,Information Technology,(10 - 40) JD,A,4,No,No,No,No,No,No,No,No
+11/8/2023 12:53,F,JU,Foreign Languages,(45 - 80) JD,B,3,No,Yes,No,No,No,No,No,No
+11/8/2023 12:54,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 12:55,M,HU,Information Technology,(10 - 40) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/8/2023 12:56,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 12:56,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,No,Yes,No,No,Yes,No,Yes
+11/8/2023 12:57,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,No,No,No,Yes,No,Yes,No
+11/8/2023 12:57,F,ZUJ,Rights,(10 - 40) JD,A,3,No,No,No,No,Yes,No,No,Yes
+11/8/2023 12:58,F,HU,Childhood,(10 - 40) JD,B,4,No,Yes,No,No,No,No,No,No
+11/8/2023 12:58,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 12:59,F,HU,Information Technology,(80+) JD,B,3,No,No,No,No,Yes,Yes,Yes,No
+11/8/2023 12:59,F,ZUJ,Information Technology,(45 - 80) JD,A,1,No,No,No,No,Yes,No,No,Yes
+11/8/2023 12:59,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:00,F,HU,Educational Sciences,(10 - 40) JD,B,3,No,No,No,No,Yes,Yes,No,No
+11/8/2023 13:00,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,No,No,No,Yes,No,No,No
+11/8/2023 13:01,F,JUST,Allied Medical Sciences,(45 - 80) JD,B,2,No,Yes,No,Yes,Yes,No,No,No
+11/8/2023 13:01,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:02,F,ZUJ,Rights,(45 - 80) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 13:02,F,HU,Information Technology,(80+) JD,C,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 13:07,F,HU,Information Technology,(45 - 80) JD,B,3,No,No,No,Yes,No,Yes,No,No
+11/8/2023 13:08,M,YU,Educational Sciences,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 13:09,M,JU,Business,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 13:10,F,JUST,Allied Medical Sciences,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:11,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 13:11,M,BAUM,Science,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:11,M,AAB,Business,(45 - 80) JD,B,3,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 13:11,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 13:11,M,JU,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:12,M,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:12,M,AAB,Sharia,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 13:12,F,AAB,Business,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 13:12,M,TTU,Science,(10 - 40) JD,C,3,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 13:12,F,HU,Childhood,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 13:12,M,JU,Business,(10 - 40) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:12,F,HU,Allied Medical Sciences,(10 - 40) JD,C,2,No,Yes,No,No,Yes,No,No,Yes
+11/8/2023 13:12,M,HU,Business,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 13:13,F,AAB,Business,(10 - 40) JD,D,2,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 13:13,F,AAB,Business,(10 - 40) JD,B,1,No,Yes,Yes,No,No,No,No,No
+11/8/2023 13:13,F,BAUM,Information Technology,(45 - 80) JD,B,3,Yes,No,Yes,No,Yes,No,No,No
+11/8/2023 13:13,M,HU,Information Technology,(45 - 80) JD,A,1,Yes,Yes,No,No,No,No,No,No
+11/8/2023 13:13,F,HU,Business,(10 - 40) JD,A,3,Yes,No,No,No,Yes,No,No,No
+11/8/2023 13:14,F,AAB,Foreign Languages,(10 - 40) JD,A,2,No,No,No,No,Yes,No,No,No
+11/8/2023 13:14,F,HU,Business,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:14,F,HU,Engineering,(10 - 40) JD,B,1,Yes,Yes,No,No,No,No,No,No
+11/8/2023 13:14,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,No,No,Yes,No,Yes,No
+11/8/2023 13:14,M,HU,Information Technology,(45 - 80) JD,D,3,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/8/2023 13:14,F,ZUJ,Pharmacy,(45 - 80) JD,A,5,No,No,Yes,Yes,Yes,No,No,Yes
+11/8/2023 13:14,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:14,F,JU,Foreign Languages,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:15,M,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 13:15,F,HU,Business,(10 - 40) JD,D,2,No,Yes,No,No,No,No,No,No
+11/8/2023 13:15,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/8/2023 13:15,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,No,Yes,No,No,No,No,No
+11/8/2023 13:16,F,HU,Business,(10 - 40) JD,A,3,No,Yes,Yes,No,No,No,No,No
+11/8/2023 13:16,F,HU,Business,(10 - 40) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:16,M,HU,Engineering,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:16,M,ZUJ,Engineering,(80+) JD,B,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:16,F,HU,Engineering,(10 - 40) JD,B,1,No,Yes,No,No,No,Yes,No,No
+11/8/2023 13:16,F,HU,Nursing,(45 - 80) JD,B,2,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/8/2023 13:16,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:16,F,HU,Allied Medical Sciences,(10 - 40) JD,C,1,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 13:16,F,BAUM,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:17,M,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 13:17,M,BAUM,Rights,(45 - 80) JD,C,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 13:17,F,HU,Engineering,(45 - 80) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 13:18,F,AAB,Rights,(10 - 40) JD,A,1,No,Yes,No,Yes,Yes,No,Yes,Yes
+11/8/2023 13:18,F,BAUM,Science,(10 - 40) JD,C,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:18,F,JUST,Dentistry,(80+) JD,B,2,No,No,No,No,Yes,Yes,No,No
+11/8/2023 13:18,M,BAUM,Business,(45 - 80) JD,D,2,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 13:18,F,HU,Engineering,(10 - 40) JD,B,1,No,No,No,No,Yes,No,Yes,No
+11/8/2023 13:18,F,HU,Information Technology,(45 - 80) JD,A,1,No,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:19,F,HU,Business,(10 - 40) JD,A,1,No,Yes,No,Yes,No,No,Yes,No
+11/8/2023 13:19,M,BAUM,Foreign Languages,(45 - 80) JD,B,2,No,Yes,No,Yes,No,No,Yes,No
+11/8/2023 13:19,F,HU,Information Technology,(45 - 80) JD,B,1,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 13:19,M,PSUT,Business,(80+) JD,C,3,No,Yes,No,No,Yes,No,No,No
+11/8/2023 13:19,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:19,F,HU,Business,(10 - 40) JD,D,4,Yes,Yes,No,No,No,No,No,Yes
+11/8/2023 13:19,M,HU,Engineering,(10 - 40) JD,A,1,Yes,No,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:19,M,BAUM,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:19,F,AAB,Nursing,(10 - 40) JD,C,2,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 13:20,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:20,M,JUST,Medicine,(45 - 80) JD,B,1,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 13:21,F,AAB,Business,(10 - 40) JD,D,2,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 13:21,F,HU,Nursing,(10 - 40) JD,A,1,No,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 13:21,F,YU,Nursing,(45 - 80) JD,C,1,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:21,F,HU,Business,(10 - 40) JD,B,3,Yes,No,Yes,No,No,No,No,No
+11/8/2023 13:21,M,BAUM,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 13:21,F,BAUM,Science,(45 - 80) JD,C,3,Yes,No,No,Yes,No,No,No,Yes
+11/8/2023 13:22,F,AAB,Business,(10 - 40) JD,A,2,No,Yes,No,Yes,No,No,No,No
+11/8/2023 13:22,M,HU,Information Technology,(45 - 80) JD,C,2,No,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 13:22,M,HU,Information Technology,(45 - 80) JD,A,2,No,No,No,No,No,No,Yes,No
+11/8/2023 13:22,F,HU,Business,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/8/2023 13:23,M,UOP,Business,(45 - 80) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 13:23,F,HU,Business,(10 - 40) JD,D,4,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+11/8/2023 13:23,F,HU,Science,(10 - 40) JD,C,2,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/8/2023 13:23,F,YU,Science,(10 - 40) JD,A,1,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 13:23,F,HU,Information Technology,(45 - 80) JD,D,3,No,No,No,No,Yes,No,No,No
+11/8/2023 13:24,F,ZU,Information Technology,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,Yes
+11/8/2023 13:24,F,AAB,Business,(10 - 40) JD,C,2,No,Yes,No,No,No,No,No,Yes
+11/8/2023 13:24,F,HU,Engineering,(10 - 40) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 13:24,M,BAUM,Information Technology,(45 - 80) JD,B,2,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 13:25,F,HU,Business,(10 - 40) JD,C,3,No,No,Yes,No,No,No,Yes,No
+11/8/2023 13:25,F,HU,Natural Resources,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:25,F,BAUM,Business,(10 - 40) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 13:25,F,HU,Business,(10 - 40) JD,C,1,No,Yes,No,No,No,No,No,No
+11/8/2023 13:25,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 13:25,F,HU,Science,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/8/2023 13:25,M,BAUM,Information Technology,(45 - 80) JD,C,3,No,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 13:26,F,HU,Science,(10 - 40) JD,A,1,Yes,No,No,No,Yes,No,Yes,Yes
+11/8/2023 13:26,F,HU,Allied Medical Sciences,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:26,F,HU,Literature,(10 - 40) JD,B,1,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 13:26,F,HU,Business,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:26,M,HU,Engineering,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 13:27,F,BAUM,Science,(10 - 40) JD,A,1,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 13:27,M,HU,Information Technology,(45 - 80) JD,B,3,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 13:27,M,AAB,Business,(10 - 40) JD,B,4,No,Yes,No,No,No,No,No,No
+11/8/2023 13:28,F,ZUJ,Nursing,(45 - 80) JD,B,1,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 13:28,F,HU,Allied Medical Sciences,(10 - 40) JD,B,1,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 13:28,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,Yes,No,No,No,No,No,No,No
+11/8/2023 13:29,M,HU,Information Technology,(45 - 80) JD,C,3,No,Yes,No,No,No,No,No,No
+11/8/2023 13:29,M,HU,Business,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/8/2023 13:29,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/8/2023 13:30,M,HU,Engineering,(10 - 40) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+11/8/2023 13:30,M,HU,Business,(10 - 40) JD,A,1,No,Yes,Yes,No,No,No,No,No
+11/8/2023 13:30,M,AAB,Business,(10 - 40) JD,B,3,No,No,No,No,Yes,Yes,Yes,No
+11/8/2023 13:30,M,HU,Information Technology,(45 - 80) JD,C,2,No,No,No,No,Yes,No,No,No
+11/8/2023 13:30,F,HU,Science,(10 - 40) JD,A,1,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 13:30,M,BAUM,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 13:30,M,HU,Information Technology,(80+) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/8/2023 13:31,F,HU,Business,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 13:32,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,Yes,Yes,Yes,No,No
+11/8/2023 13:32,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 13:32,F,HU,Science,(10 - 40) JD,A,1,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 13:32,F,JU,Engineering,(80+) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:32,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,No,Yes,No,Yes,No,No,No
+11/8/2023 13:33,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 13:33,M,BAUM,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 13:33,F,BAUM,Business,(10 - 40) JD,D,2,Yes,No,No,Yes,Yes,No,Yes,No
+11/8/2023 13:33,F,HU,Science,(10 - 40) JD,A,1,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 13:33,M,HU,Business,(80+) JD,A,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 13:33,F,HU,Business,(45 - 80) JD,C,2,No,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 13:33,M,HU,Information Technology,(45 - 80) JD,D,4,No,Yes,No,No,Yes,No,No,No
+11/8/2023 13:34,F,JU,Science,(45 - 80) JD,C,2,Yes,Yes,No,No,No,No,No,No
+11/8/2023 13:34,M,HU,Engineering,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 13:34,M,BAUM,Engineering,(45 - 80) JD,A,1,No,Yes,Yes,Yes,No,No,Yes,Yes
+11/8/2023 13:34,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+11/8/2023 13:34,F,HU,Engineering,(10 - 40) JD,B,2,No,Yes,No,No,No,No,Yes,No
+11/8/2023 13:34,F,BAUM,Allied Medical Sciences,(10 - 40) JD,D,2,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 13:34,M,HU,Business,(10 - 40) JD,A,2,Yes,No,No,No,Yes,No,No,No
+11/8/2023 13:34,M,HU,Business,(45 - 80) JD,B,1,No,No,No,No,No,No,Yes,No
+11/8/2023 13:34,M,HU,Business,(10 - 40) JD,A,1,No,No,No,No,Yes,Yes,No,No
+11/8/2023 13:34,F,HU,Information Technology,(45 - 80) JD,C,2,No,Yes,No,No,No,No,No,No
+11/8/2023 13:35,F,HU,Science,(10 - 40) JD,A,1,No,No,Yes,No,No,No,No,No
+11/8/2023 13:35,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:35,F,HU,Business,(45 - 80) JD,C,2,Yes,No,No,No,Yes,No,No,No
+11/8/2023 13:35,F,HU,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:36,F,JU,Science,(10 - 40) JD,D,2,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 13:36,F,HU,Business,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+11/8/2023 13:38,F,HU,Business,(10 - 40) JD,C,2,No,No,No,No,No,No,Yes,Yes
+11/8/2023 13:38,F,HU,Tourism,(10 - 40) JD,C,1,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 13:39,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:39,F,HU,Business,(10 - 40) JD,A,3,Yes,No,Yes,Yes,Yes,Yes,No,No
+11/8/2023 13:39,F,HU,Literature,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/8/2023 13:39,M,BAUM,Science,(10 - 40) JD,B,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:40,M,HU,Pharmacy,(45 - 80) JD,C,1,No,No,Yes,Yes,No,No,No,No
+11/8/2023 13:40,M,BAUM,Science,(10 - 40) JD,A,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 13:40,F,JU,Science,(45 - 80) JD,C,2,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 13:41,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:41,M,HU,Nursing,(45 - 80) JD,A,3,No,No,No,No,Yes,No,No,No
+11/8/2023 13:41,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 13:41,F,JU,Literature,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/8/2023 13:41,F,HU,Business,(10 - 40) JD,C,3,No,No,No,No,No,No,No,Yes
+11/8/2023 13:42,F,AAB,Business,(10 - 40) JD,C,2,No,No,No,No,No,Yes,Yes,No
+11/8/2023 13:42,F,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 13:42,F,AAB,Business,(10 - 40) JD,D,3,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 13:42,F,HU,Information Technology,(45 - 80) JD,A,1,Yes,Yes,No,No,No,No,No,No
+11/8/2023 13:42,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,No,Yes,No,Yes,No,No
+11/8/2023 13:42,M,HU,Information Technology,(80+) JD,B,3,Yes,No,No,No,Yes,Yes,Yes,Yes
+11/8/2023 13:42,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:43,M,HU,Nursing,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:44,F,HU,Engineering,(45 - 80) JD,B,1,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 13:45,F,BAUM,Rights,(45 - 80) JD,A,2,No,Yes,No,No,Yes,No,No,No
+11/8/2023 13:45,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 13:45,F,HU,Business,(10 - 40) JD,A,2,Yes,No,No,Yes,No,Yes,Yes,Yes
+11/8/2023 13:45,F,HU,Information Technology,(45 - 80) JD,C,2,No,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 13:46,M,PSUT,Information Technology,(80+) JD,D,4,No,Yes,No,No,No,No,Yes,No
+11/8/2023 13:46,M,YU,Engineering,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:46,M,HU,Medicine,(80+) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 13:46,M,HU,Business,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 13:47,F,AAB,Sharia,(10 - 40) JD,A,1,No,Yes,No,No,No,Yes,No,No
+11/8/2023 13:47,F,HU,Natural Resources,(10 - 40) JD,B,3,No,Yes,Yes,No,No,No,No,No
+11/8/2023 13:47,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 13:47,M,PSUT,Information Technology,(80+) JD,D,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 13:47,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:47,F,HU,Business,(10 - 40) JD,C,1,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 13:47,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+11/8/2023 13:48,M,HU,Nursing,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:48,F,HU,Literature,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 13:48,F,HU,Educational Sciences,(10 - 40) JD,C,2,No,Yes,No,Yes,No,No,Yes,No
+11/8/2023 13:48,F,HU,Educational Sciences,(10 - 40) JD,C,4,No,Yes,No,Yes,No,No,No,No
+11/8/2023 13:51,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 13:52,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:53,F,PSUT,Engineering,(80+) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 13:53,M,PSUT,Information Technology,(80+) JD,B,4,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 13:53,F,BAUM,Information Technology,(45 - 80) JD,B,1,Yes,Yes,No,No,No,No,No,No
+11/8/2023 13:54,M,HU,Business,(10 - 40) JD,C,3,Yes,No,No,No,No,No,No,No
+11/8/2023 13:55,M,PSUT,Engineering,(80+) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 13:56,M,PSUT,Engineering,(80+) JD,A,3,Yes,Yes,No,No,No,Yes,No,No
+11/8/2023 13:56,F,HU,Business,(10 - 40) JD,B,2,Yes,Yes,No,No,No,Yes,Yes,No
+11/8/2023 13:56,F,BAUM,Rights,(10 - 40) JD,B,3,No,Yes,No,No,No,No,No,No
+11/8/2023 13:57,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,Yes,Yes,No,No,No,No,Yes
+11/8/2023 13:58,F,JU,Foreign Languages,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 13:58,F,BAUM,Engineering,(45 - 80) JD,B,3,No,Yes,No,No,No,No,No,No
+11/8/2023 14:00,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 14:00,M,HU,Business,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 14:01,M,HU,Nursing,(10 - 40) JD,A,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 14:01,F,BAUM,Engineering,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:01,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,No,Yes,Yes,Yes,No,No
+11/8/2023 14:02,F,HU,Information Technology,(45 - 80) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 14:02,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:02,M,HU,Nursing,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:03,F,HU,Literature,(45 - 80) JD,B,3,No,No,No,No,Yes,No,No,No
+11/8/2023 14:03,M,HU,Nursing,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:03,F,HU,Information Technology,(45 - 80) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 14:04,M,HU,Nursing,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:04,F,HU,Business,(45 - 80) JD,B,4,No,Yes,No,No,No,No,No,No
+11/8/2023 14:04,F,HU,Science,(10 - 40) JD,C,4,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:05,F,HU,Literature,(10 - 40) JD,B,2,Yes,Yes,No,Yes,No,No,Yes,Yes
+11/8/2023 14:05,M,HU,Nursing,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+11/8/2023 14:06,M,HU,Nursing,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 14:06,F,BAUM,Literature,(10 - 40) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 14:06,M,HU,Nursing,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 14:06,F,HU,Science,(10 - 40) JD,D,2,Yes,No,No,No,No,No,No,Yes
+11/8/2023 14:06,M,HU,Nursing,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 14:07,M,HU,Nursing,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 14:07,F,HU,Business,(10 - 40) JD,C,2,No,No,No,Yes,Yes,No,No,No
+11/8/2023 14:07,F,HU,Business,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 14:07,F,HU,Information Technology,(45 - 80) JD,B,3,No,No,Yes,No,Yes,No,Yes,No
+11/8/2023 14:07,F,HU,Information Technology,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:07,M,HU,Nursing,(45 - 80) JD,B,3,No,Yes,No,Yes,No,No,No,No
+11/8/2023 14:08,F,HU,Educational Sciences,(10 - 40) JD,A,4,No,No,Yes,No,Yes,No,Yes,No
+11/8/2023 14:08,F,HU,Engineering,(45 - 80) JD,B,5,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 14:08,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:08,F,AAB,Business,(10 - 40) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 14:08,M,HU,Literature,(10 - 40) JD,B,3,No,No,No,Yes,Yes,No,No,No
+11/8/2023 14:08,F,HU,Literature,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 14:09,M,BAUM,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 14:10,F,HU,Business,(10 - 40) JD,B,4,No,Yes,No,No,No,No,No,No
+11/8/2023 14:10,F,BAUM,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:10,F,HU,Business,(10 - 40) JD,A,1,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 14:11,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+11/8/2023 14:11,F,HU,Engineering,(45 - 80) JD,A,1,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:12,F,HU,Information Technology,(10 - 40) JD,A,3,Yes,No,Yes,Yes,No,Yes,No,No
+11/8/2023 14:13,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:14,F,HU,Information Technology,(45 - 80) JD,C,3,No,No,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 14:14,F,HU,Information Technology,(45 - 80) JD,A,3,No,No,Yes,No,Yes,Yes,Yes,Yes
+11/8/2023 14:15,M,HU,Engineering,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 14:15,M,HU,Nursing,(45 - 80) JD,B,3,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:16,F,HU,Business,(10 - 40) JD,C,4,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:16,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 14:17,M,PSUT,Engineering,(80+) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 14:17,F,HU,Literature,(10 - 40) JD,B,1,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 14:17,M,HU,Nursing,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:19,F,JU,Medicine,(80+) JD,B,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:19,F,HU,Literature,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 14:20,M,HU,Literature,(45 - 80) JD,B,3,No,No,No,No,No,No,No,No
+11/8/2023 14:20,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:21,F,HU,Engineering,(10 - 40) JD,B,2,Yes,No,No,No,Yes,No,No,Yes
+11/8/2023 14:21,F,HU,Information Technology,(45 - 80) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 14:22,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 14:22,M,PSUT,Information Technology,(80+) JD,D,5,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 14:22,F,HU,Nursing,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 14:22,F,HU,Educational Sciences,(10 - 40) JD,C,4,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 14:23,F,AAB,Business,(10 - 40) JD,B,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 14:23,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 14:23,F,HU,Business,(10 - 40) JD,B,1,No,Yes,No,Yes,No,No,Yes,No
+11/8/2023 14:24,F,HU,Nursing,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 14:24,M,HU,Engineering,(10 - 40) JD,B,1,No,No,Yes,No,Yes,No,No,No
+11/8/2023 14:24,F,HU,Business,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 14:24,F,HU,Business,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 14:24,M,AAB,Literature,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,Yes
+11/8/2023 14:24,F,HU,Engineering,(10 - 40) JD,A,1,Yes,Yes,Yes,No,No,No,No,Yes
+11/8/2023 14:25,F,HU,Engineering,(80+) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/8/2023 14:26,F,HU,Engineering,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:26,F,ZUJ,Science,(45 - 80) JD,C,1,No,Yes,No,No,No,No,No,No
+11/8/2023 14:26,F,HU,Business,(10 - 40) JD,B,3,No,Yes,No,No,No,No,No,No
+11/8/2023 14:27,F,HU,Science,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/8/2023 14:27,M,AAB,Business,(10 - 40) JD,D,3,No,No,No,Yes,Yes,No,No,No
+11/8/2023 14:27,M,PSUT,Information Technology,(80+) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:28,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,No,No,No,No,Yes,No,Yes
+11/8/2023 14:28,F,BAUM,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:28,F,HU,Literature,(10 - 40) JD,A,1,No,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:29,M,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 14:29,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:30,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,No,Yes,Yes,No,No,No,No
+11/8/2023 14:31,F,HU,Science,(45 - 80) JD,C,2,No,Yes,No,No,No,No,No,No
+11/8/2023 14:32,F,HU,Educational Sciences,(10 - 40) JD,C,4,No,No,No,No,Yes,No,No,No
+11/8/2023 14:32,M,HU,Nursing,(45 - 80) JD,B,3,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:33,M,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 14:33,M,HU,Business,(80+) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 14:34,F,HU,Science,(10 - 40) JD,A,2,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 14:34,M,AAB,Engineering,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 14:34,F,AAB,Sharia,(10 - 40) JD,C,2,No,Yes,No,Yes,Yes,No,No,Yes
+11/8/2023 14:34,F,HU,Business,(45 - 80) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/8/2023 14:35,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 14:35,M,HU,Information Technology,(45 - 80) JD,A,2,No,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:35,F,HU,Literature,(10 - 40) JD,A,1,No,Yes,No,No,No,Yes,Yes,No
+11/8/2023 14:35,F,HU,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:36,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:36,M,TTU,Business,(10 - 40) JD,A,3,Yes,No,Yes,Yes,Yes,No,No,Yes
+11/8/2023 14:37,F,HU,Science,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 14:37,F,AAB,Business,(10 - 40) JD,A,1,No,Yes,Yes,No,No,No,No,No
+11/8/2023 14:37,M,HU,Allied Medical Sciences,(10 - 40) JD,A,1,Yes,No,No,No,Yes,No,No,No
+11/8/2023 14:38,F,BAUM,Allied Medical Sciences,(10 - 40) JD,B,4,No,No,Yes,Yes,Yes,No,No,Yes
+11/8/2023 14:39,F,BAUM,Business,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/8/2023 14:40,M,PSUT,Engineering,(80+) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:40,M,HU,Business,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 14:40,F,HU,Pharmacy,(45 - 80) JD,A,1,No,Yes,Yes,No,No,No,No,No
+11/8/2023 14:41,M,HU,Engineering,(10 - 40) JD,B,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:42,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 14:42,M,BAUM,Engineering,(10 - 40) JD,B,1,No,No,No,No,Yes,No,Yes,No
+11/8/2023 14:43,F,HU,Literature,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 14:44,F,PSUT,Engineering,(80+) JD,A,3,Yes,No,No,Yes,No,Yes,No,No
+11/8/2023 14:45,F,HU,Childhood,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/8/2023 14:45,M,HU,Business,(10 - 40) JD,C,1,No,Yes,No,No,Yes,No,No,No
+11/8/2023 14:46,M,BAUM,Information Technology,(45 - 80) JD,C,3,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 14:46,F,HU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 14:47,M,HU,Allied Medical Sciences,(10 - 40) JD,A,2,No,No,No,No,Yes,No,No,No
+11/8/2023 14:47,F,HU,Allied Medical Sciences,(45 - 80) JD,C,2,Yes,Yes,Yes,No,No,Yes,No,No
+11/8/2023 14:47,F,HU,Engineering,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/8/2023 14:49,F,HU,Childhood,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 14:51,M,HU,Business,(10 - 40) JD,D,2,No,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 14:51,F,HU,Educational Sciences,(10 - 40) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 14:51,F,HU,Engineering,(10 - 40) JD,A,1,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 14:52,M,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:52,M,HU,Science,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 14:55,F,HU,Science,(10 - 40) JD,B,4,No,No,Yes,No,Yes,No,No,No
+11/8/2023 14:55,F,HU,Educational Sciences,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 14:55,F,HU,Business,(10 - 40) JD,B,3,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 14:56,M,HU,Information Technology,(45 - 80) JD,D,2,No,No,No,No,No,No,Yes,No
+11/8/2023 14:57,F,HU,Business,(10 - 40) JD,D,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 14:59,M,HU,Information Technology,(45 - 80) JD,B,3,No,No,Yes,Yes,Yes,No,No,No
+11/8/2023 14:59,F,HU,Natural Resources,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 14:59,F,BAUM,Medicine,(80+) JD,B,2,No,No,No,No,Yes,No,No,No
+11/8/2023 15:00,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 15:00,F,HU,Natural Resources,(10 - 40) JD,A,1,No,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 15:01,M,HU,Business,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 15:03,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 15:03,M,HU,Engineering,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 15:04,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 15:04,M,HU,Engineering,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/8/2023 15:04,F,HU,Science,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 15:05,F,HU,Business,(10 - 40) JD,C,3,No,Yes,No,Yes,No,No,No,Yes
+11/8/2023 15:06,F,JUST,Information Technology,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 15:07,M,JUST,Medicine,(80+) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 15:09,M,PSUT,Information Technology,(80+) JD,C,6,Yes,No,No,No,No,No,No,No
+11/8/2023 15:10,F,HU,Allied Medical Sciences,(80+) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 15:11,F,HU,Nursing,(45 - 80) JD,B,2,Yes,Yes,No,Yes,No,No,Yes,Yes
+11/8/2023 15:11,M,HU,Information Technology,(45 - 80) JD,A,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 15:11,F,HU,Business,(10 - 40) JD,C,3,No,Yes,Yes,No,No,No,No,No
+11/8/2023 15:11,F,HU,Literature,(45 - 80) JD,A,3,No,Yes,No,No,No,Yes,No,Yes
+11/8/2023 15:12,F,HU,Childhood,(10 - 40) JD,A,2,No,No,No,No,No,No,No,Yes
+11/8/2023 15:15,F,HU,Childhood,(10 - 40) JD,B,2,Yes,No,No,No,No,No,No,No
+11/8/2023 15:15,F,HU,Allied Medical Sciences,(10 - 40) JD,C,1,No,Yes,No,Yes,No,No,No,No
+11/8/2023 15:16,F,HU,Business,(10 - 40) JD,B,4,No,No,No,Yes,Yes,No,No,No
+11/8/2023 15:16,F,HU,Natural Resources,(10 - 40) JD,C,2,Yes,Yes,No,No,No,No,No,No
+11/8/2023 15:17,F,JU,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 15:17,F,HU,Business,(10 - 40) JD,C,2,No,No,No,No,Yes,No,No,No
+11/8/2023 15:18,F,HU,Business,(10 - 40) JD,A,3,No,Yes,No,Yes,Yes,No,No,No
+11/8/2023 15:18,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 15:19,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/8/2023 15:19,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 15:20,M,BAUM,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 15:20,F,HU,Business,(10 - 40) JD,C,3,Yes,No,No,No,Yes,No,No,No
+11/8/2023 15:20,F,HU,Science,(10 - 40) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 15:20,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 15:20,F,BAUM,Business,(10 - 40) JD,A,4,No,Yes,No,No,Yes,No,No,No
+11/8/2023 15:20,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 15:21,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 15:21,F,HU,Business,(10 - 40) JD,A,3,Yes,No,No,No,Yes,Yes,No,No
+11/8/2023 15:21,F,HU,Business,(45 - 80) JD,D,3,Yes,No,No,No,Yes,No,No,No
+11/8/2023 15:21,F,HU,Literature,(10 - 40) JD,A,1,No,No,Yes,No,No,No,No,No
+11/8/2023 15:21,F,HU,Educational Sciences,(10 - 40) JD,B,3,No,Yes,No,No,No,No,No,No
+11/8/2023 15:21,F,JU,Engineering,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 15:22,F,HU,Medicine,(80+) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 15:23,M,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 15:23,F,BAUM,Business,(10 - 40) JD,B,2,No,No,No,Yes,Yes,No,No,No
+11/8/2023 15:23,M,JU,Medicine,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 15:24,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 15:24,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/8/2023 15:24,M,JUST,Information Technology,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 15:24,M,ZU,Information Technology,(10 - 40) JD,A,2,Yes,No,No,Yes,No,No,No,No
+11/8/2023 15:25,F,HU,Nursing,(45 - 80) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 15:25,F,HU,Business,(10 - 40) JD,C,4,No,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 15:25,M,JU,Engineering,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 15:26,M,HU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 15:27,M,HU,Business,(45 - 80) JD,B,1,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 15:27,F,HU,Business,(10 - 40) JD,B,4,No,No,No,Yes,No,No,No,No
+11/8/2023 15:27,M,HU,Literature,(10 - 40) JD,C,1,Yes,No,No,No,Yes,No,No,No
+11/8/2023 15:29,F,JU,Allied Medical Sciences,(80+) JD,B,2,No,No,No,No,Yes,No,No,No
+11/8/2023 15:29,F,HU,Business,(10 - 40) JD,A,4,No,Yes,Yes,No,No,No,No,No
+11/8/2023 15:30,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 15:30,M,HU,Science,(10 - 40) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 15:30,F,HU,Business,(10 - 40) JD,A,4,No,Yes,Yes,No,Yes,No,No,Yes
+11/8/2023 15:30,F,HU,Educational Sciences,(10 - 40) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 15:31,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 15:31,M,JU,Engineering,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,Yes,Yes,No
+11/8/2023 15:32,F,HU,Business,(10 - 40) JD,C,4,Yes,No,No,No,No,Yes,No,No
+11/8/2023 15:32,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 15:33,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 15:33,F,BAUM,Business,(45 - 80) JD,B,3,No,No,No,No,No,No,No,No
+11/8/2023 15:33,F,HU,Natural Resources,(10 - 40) JD,B,2,Yes,No,No,Yes,Yes,No,Yes,No
+11/8/2023 15:34,F,HU,Pharmacy,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 15:34,F,JUST,Information Technology,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 15:34,F,HU,Educational Sciences,(10 - 40) JD,B,3,No,No,No,Yes,Yes,No,No,No
+11/8/2023 15:34,F,HU,Engineering,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 15:35,M,HU,Nursing,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 15:35,M,PSUT,Information Technology,(80+) JD,C,5,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 15:37,M,HU,Business,(10 - 40) JD,B,3,Yes,No,No,Yes,No,Yes,No,No
+11/8/2023 15:37,M,BAUM,Business,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 15:38,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 15:39,F,BAUM,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 15:40,F,ZUJ,Science,(45 - 80) JD,D,2,No,Yes,No,No,Yes,No,No,Yes
+11/8/2023 15:40,F,HU,Science,(45 - 80) JD,B,2,Yes,Yes,No,Yes,No,No,Yes,No
+11/8/2023 15:41,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 15:41,F,HU,Business,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/8/2023 15:42,F,BAUM,Business,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,Yes
+11/8/2023 15:43,F,HU,Business,(10 - 40) JD,B,3,Yes,No,No,No,No,No,No,No
+11/8/2023 15:45,F,HU,Business,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/8/2023 15:46,M,HU,Business,(10 - 40) JD,D,3,Yes,No,No,No,Yes,No,No,Yes
+11/8/2023 15:46,M,HU,Business,(45 - 80) JD,C,4,No,No,No,No,Yes,No,No,No
+11/8/2023 15:46,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 15:48,M,AAB,Business,(10 - 40) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/8/2023 15:48,F,HU,Business,(10 - 40) JD,C,3,No,Yes,No,No,No,No,No,No
+11/8/2023 15:50,F,HU,Allied Medical Sciences,(10 - 40) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 15:50,F,HU,Business,(10 - 40) JD,C,4,Yes,Yes,No,No,No,No,No,No
+11/8/2023 15:50,M,HU,Engineering,(10 - 40) JD,B,3,No,Yes,Yes,No,No,No,Yes,No
+11/8/2023 15:52,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/8/2023 15:52,F,BAUM,Business,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 15:53,F,AAB,Business,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 15:53,F,HU,Natural Resources,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 15:53,F,BAUM,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/8/2023 15:54,F,JUST,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,No,No,No,Yes,No
+11/8/2023 15:54,F,HU,Engineering,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,Yes
+11/8/2023 15:55,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 15:55,M,BAUM,Business,(10 - 40) JD,D,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 15:57,F,JU,Dentistry,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+11/8/2023 15:58,F,HU,Educational Sciences,(10 - 40) JD,B,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+11/8/2023 15:58,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,No,No,Yes,No
+11/8/2023 15:59,F,HU,Dentistry,(80+) JD,A,1,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 15:59,F,JU,Dentistry,(10 - 40) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 16:00,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 16:01,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,Yes,Yes,No
+11/8/2023 16:01,F,JU,Dentistry,(10 - 40) JD,B,3,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 16:05,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 16:05,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 16:05,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 16:05,F,HU,Business,(10 - 40) JD,B,1,Yes,Yes,No,Yes,No,No,Yes,No
+11/8/2023 16:05,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 16:06,F,JU,Dentistry,(80+) JD,B,3,Yes,No,Yes,No,Yes,Yes,No,No
+11/8/2023 16:08,F,HU,Natural Resources,(10 - 40) JD,C,4,Yes,Yes,No,No,No,No,No,Yes
+11/8/2023 16:08,M,JUST,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 16:08,F,JU,Dentistry,(10 - 40) JD,A,3,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 16:08,F,HU,Business,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 16:11,F,JUST,Information Technology,(10 - 40) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 16:14,F,HU,Business,(10 - 40) JD,B,4,No,Yes,No,No,Yes,No,No,No
+11/8/2023 16:15,F,HU,Literature,(10 - 40) JD,A,2,Yes,Yes,No,No,No,No,No,Yes
+11/8/2023 16:15,M,JUST,Engineering,(80+) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 16:17,F,JUST,Pharmacy,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 16:17,F,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 16:17,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 16:19,M,ZUJ,Science,(45 - 80) JD,A,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 16:20,F,TTU,Science,(10 - 40) JD,C,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 16:20,F,YU,Engineering,(45 - 80) JD,A,4,Yes,Yes,No,No,Yes,No,Yes,No
+11/8/2023 16:20,M,TTU,Business,(10 - 40) JD,B,3,No,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 16:20,F,HU,Educational Sciences,(10 - 40) JD,B,2,No,Yes,No,No,No,Yes,No,No
+11/8/2023 16:21,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 16:21,M,TTU,Business,(10 - 40) JD,A,3,Yes,No,No,Yes,Yes,Yes,Yes,No
+11/8/2023 16:21,F,HU,Business,(10 - 40) JD,C,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 16:22,M,ZU,Literature,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 16:23,F,TTU,Science,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 16:23,F,HU,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 16:24,M,TTU,Business,(10 - 40) JD,B,3,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 16:25,M,HU,Information Technology,(45 - 80) JD,B,5,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 16:25,M,TTU,Business,(10 - 40) JD,B,3,No,No,No,No,Yes,No,No,No
+11/8/2023 16:26,F,HU,Business,(10 - 40) JD,A,4,No,No,No,No,No,No,No,No
+11/8/2023 16:26,F,HU,Business,(10 - 40) JD,A,4,No,Yes,No,No,Yes,No,No,No
+11/8/2023 16:28,M,PSUT,Information Technology,(80+) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 16:28,F,HU,Childhood,(10 - 40) JD,A,2,No,Yes,No,No,Yes,No,No,No
+11/8/2023 16:28,F,HU,Medicine,(80+) JD,A,3,No,Yes,No,No,No,Yes,Yes,No
+11/8/2023 16:29,F,HU,Natural Resources,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 16:29,F,HU,Science,(10 - 40) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/8/2023 16:30,F,HU,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 16:31,F,HU,Science,(10 - 40) JD,B,1,Yes,Yes,Yes,No,No,Yes,No,No
+11/8/2023 16:31,F,HU,Business,(10 - 40) JD,B,3,Yes,No,Yes,Yes,No,No,Yes,Yes
+11/8/2023 16:32,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 16:32,M,TTU,Mathematics,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 16:33,F,AAB,Business,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 16:35,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,No,No,Yes,No
+11/8/2023 16:35,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,No,No,No,No,No,Yes
+11/8/2023 16:35,F,HU,Science,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,Yes
+11/8/2023 16:35,M,HU,Nursing,(10 - 40) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 16:35,F,HU,Business,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 16:35,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 16:36,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 16:37,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,Yes
+11/8/2023 16:38,M,HU,Business,(10 - 40) JD,C,4,No,Yes,No,No,Yes,No,No,No
+11/8/2023 16:41,F,JU,Foreign Languages,(45 - 80) JD,B,3,No,No,Yes,No,No,No,No,No
+11/8/2023 16:41,F,AAB,Business,(10 - 40) JD,C,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 16:44,F,JU,Foreign Languages,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,Yes,Yes
+11/8/2023 16:44,M,BAUM,Business,(10 - 40) JD,D,6,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 16:45,F,HU,Natural Resources,(10 - 40) JD,C,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 16:45,M,BAUM,Business,(45 - 80) JD,C,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 16:46,F,JU,Foreign Languages,(10 - 40) JD,A,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 16:47,F,JU,Foreign Languages,(10 - 40) JD,B,2,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 16:48,F,HU,Business,(10 - 40) JD,A,4,Yes,No,Yes,Yes,No,No,No,No
+11/8/2023 16:50,M,JUST,Medicine,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 16:52,F,HU,Business,(45 - 80) JD,B,4,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 16:52,F,HU,Business,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 16:55,F,HU,Business,(10 - 40) JD,A,1,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 16:56,F,JU,Foreign Languages,(80+) JD,B,5,Yes,Yes,No,No,No,No,No,No
+11/8/2023 16:56,F,HU,Educational Sciences,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 16:57,M,BAUM,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 16:59,M,TTU,Science,(10 - 40) JD,C,2,No,No,Yes,No,No,No,No,Yes
+11/8/2023 16:59,M,HU,Business,(45 - 80) JD,C,2,No,Yes,No,No,No,Yes,No,Yes
+11/8/2023 16:59,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 16:59,M,HU,Business,(10 - 40) JD,D,2,Yes,Yes,No,No,No,No,No,No
+11/8/2023 16:59,F,HU,Natural Resources,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:02,F,JU,Science,(80+) JD,B,2,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 17:04,F,HU,Natural Resources,(10 - 40) JD,B,3,No,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 17:04,F,JU,Pharmacy,(80+) JD,A,2,No,Yes,No,Yes,Yes,Yes,No,No
+11/8/2023 17:05,F,JUST,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,No,No,Yes,No,No
+11/8/2023 17:08,F,HU,Natural Resources,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,Yes
+11/8/2023 17:09,F,BAUM,Business,(10 - 40) JD,B,3,No,No,No,Yes,Yes,No,No,No
+11/8/2023 17:10,F,JUST,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 17:10,M,HU,Science,(10 - 40) JD,C,3,No,No,No,No,Yes,No,No,No
+11/8/2023 17:10,F,WISE,Business,(10 - 40) JD,B,3,No,No,No,No,Yes,No,Yes,No
+11/8/2023 17:11,F,ZU,Dentistry,(80+) JD,B,2,Yes,No,Yes,Yes,No,No,No,No
+11/8/2023 17:12,F,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 17:12,F,JU,Dentistry,(80+) JD,A,1,No,No,No,No,No,Yes,No,Yes
+11/8/2023 17:13,F,JUST,Engineering,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 17:13,F,JU,Information Technology,(80+) JD,B,2,No,No,No,No,Yes,No,Yes,No
+11/8/2023 17:14,M,BAUM,Business,(10 - 40) JD,C,2,Yes,No,No,No,Yes,No,No,No
+11/8/2023 17:15,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:16,F,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:17,F,JUST,Engineering,(10 - 40) JD,C,4,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 17:17,F,HU,Natural Resources,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:18,F,BAUM,Nursing,(10 - 40) JD,B,2,No,Yes,No,No,No,Yes,No,No
+11/8/2023 17:18,F,JUST,Dentistry,(10 - 40) JD,B,3,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+11/8/2023 17:19,F,HU,Information Technology,(45 - 80) JD,A,4,Yes,No,Yes,No,No,Yes,Yes,No
+11/8/2023 17:19,M,HU,Information Technology,(45 - 80) JD,C,3,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 17:19,F,JUST,Allied Medical Sciences,(10 - 40) JD,C,3,Yes,Yes,No,No,No,No,Yes,No
+11/8/2023 17:20,M,HU,Information Technology,(45 - 80) JD,C,4,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 17:20,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,No,No,Yes,No,No,Yes,No
+11/8/2023 17:22,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 17:24,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 17:25,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 17:26,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/8/2023 17:27,F,HU,Science,(10 - 40) JD,B,3,No,No,Yes,No,Yes,No,Yes,No
+11/8/2023 17:28,M,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:28,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:29,F,BAUM,Business,(10 - 40) JD,C,4,No,No,No,Yes,Yes,No,No,No
+11/8/2023 17:29,M,BAUM,Business,(10 - 40) JD,D,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 17:29,M,ZU,Science,(10 - 40) JD,B,3,No,No,No,Yes,Yes,No,No,No
+11/8/2023 17:30,F,HU,Information Technology,(45 - 80) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:30,F,HU,Natural Resources,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 17:31,M,BAUM,Business,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:32,M,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:32,F,HU,Childhood,(10 - 40) JD,A,2,Yes,Yes,No,No,No,No,No,No
+11/8/2023 17:36,F,HU,Science,(10 - 40) JD,B,3,No,Yes,No,No,No,No,No,No
+11/8/2023 17:38,M,HU,Business,(10 - 40) JD,A,2,No,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 17:39,M,HU,Information Technology,(45 - 80) JD,D,3,No,No,No,No,Yes,Yes,Yes,Yes
+11/8/2023 17:40,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 17:40,M,HU,Business,(10 - 40) JD,B,3,No,No,Yes,Yes,Yes,No,Yes,No
+11/8/2023 17:42,F,HU,Business,(45 - 80) JD,B,1,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 17:42,F,HU,Literature,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 17:43,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:46,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 17:46,F,HU,Medicine,(80+) JD,B,6,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:47,F,JU,Foreign Languages,(10 - 40) JD,C,3,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 17:47,F,HU,Business,(10 - 40) JD,D,4,No,Yes,No,No,Yes,No,No,No
+11/8/2023 17:48,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+11/8/2023 17:48,F,HU,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:50,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 17:51,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 17:51,F,AAB,Business,(10 - 40) JD,A,2,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 17:51,M,BAUM,Business,(10 - 40) JD,B,2,No,No,No,Yes,No,No,No,No
+11/8/2023 17:52,F,JUST,Medicine,(10 - 40) JD,A,1,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 17:52,M,BAUM,Engineering,(45 - 80) JD,C,5,Yes,No,Yes,No,Yes,No,No,No
+11/8/2023 17:52,F,HU,Business,(10 - 40) JD,C,4,No,No,No,Yes,Yes,No,No,No
+11/8/2023 17:52,F,HU,Business,(10 - 40) JD,B,3,Yes,No,No,No,No,No,No,Yes
+11/8/2023 17:53,F,BAUM,Business,(10 - 40) JD,C,2,Yes,Yes,No,Yes,No,No,Yes,No
+11/8/2023 17:56,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 17:56,F,HU,Science,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 17:57,F,HU,Business,(10 - 40) JD,C,3,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 17:57,F,HU,Science,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 17:59,F,HU,Business,(10 - 40) JD,A,4,Yes,Yes,No,No,Yes,Yes,No,Yes
+11/8/2023 18:00,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,No,Yes,No,No,Yes,No,No
+11/8/2023 18:02,F,HU,Science,(10 - 40) JD,C,2,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/8/2023 18:03,F,HU,Medicine,(80+) JD,A,1,Yes,No,Yes,No,No,No,No,No
+11/8/2023 18:03,F,JU,Foreign Languages,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,Yes,No,No
+11/8/2023 18:03,M,HU,Business,(45 - 80) JD,C,4,Yes,Yes,No,No,No,No,No,No
+11/8/2023 18:04,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 18:04,M,HU,Natural Resources,(10 - 40) JD,C,2,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 18:04,F,HU,Business,(10 - 40) JD,C,4,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 18:04,M,AAB,Business,(10 - 40) JD,B,3,No,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 18:07,M,HU,Nursing,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 18:12,F,HU,Information Technology,(45 - 80) JD,C,2,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 18:12,F,JU,Foreign Languages,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 18:16,F,JU,Foreign Languages,(10 - 40) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 18:19,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+11/8/2023 18:19,F,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 18:19,F,TTU,Mathematics,(10 - 40) JD,C,3,No,No,No,No,Yes,No,No,No
+11/8/2023 18:21,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 18:22,M,JUST,Dentistry,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 18:23,M,BAUM,Nursing,(10 - 40) JD,C,1,No,No,No,No,Yes,No,No,No
+11/8/2023 18:23,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+11/8/2023 18:23,M,HU,Tourism,(10 - 40) JD,A,3,Yes,Yes,No,No,No,Yes,No,No
+11/8/2023 18:23,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 18:24,F,JUST,Allied Medical Sciences,(45 - 80) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 18:29,F,JUST,Medicine,(10 - 40) JD,A,4,No,No,No,No,Yes,No,No,No
+11/8/2023 18:30,F,HU,Pharmacy,(45 - 80) JD,B,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 18:31,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 18:32,F,JU,Foreign Languages,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 18:32,F,JUST,Science,(10 - 40) JD,A,4,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 18:34,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,No,Yes,No,No,No,No,No
+11/8/2023 18:34,F,HU,Business,(10 - 40) JD,C,4,Yes,No,No,No,No,No,Yes,Yes
+11/8/2023 18:34,M,HU,Business,(10 - 40) JD,C,2,No,No,No,No,No,No,No,No
+11/8/2023 18:34,M,HU,Natural Resources,(10 - 40) JD,C,2,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 18:36,F,BAUM,Allied Medical Sciences,(10 - 40) JD,B,2,No,No,No,No,Yes,Yes,No,No
+11/8/2023 18:39,F,WISE,Literature,(10 - 40) JD,A,1,No,Yes,No,No,No,Yes,Yes,No
+11/8/2023 18:39,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,Yes,No,Yes,No,No,No
+11/8/2023 18:39,M,TTU,Science,(10 - 40) JD,D,2,No,Yes,No,No,No,No,No,No
+11/8/2023 18:39,F,HU,Engineering,(10 - 40) JD,C,5,Yes,No,No,No,No,No,No,No
+11/8/2023 18:40,F,HU,Business,(10 - 40) JD,C,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 18:40,F,AAB,Literature,(10 - 40) JD,C,1,No,No,Yes,No,No,No,Yes,No
+11/8/2023 18:43,F,HU,Allied Medical Sciences,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,Yes
+11/8/2023 18:44,M,HU,Literature,(10 - 40) JD,A,1,No,No,No,Yes,No,No,No,No
+11/8/2023 18:45,M,HU,Medicine,(80+) JD,B,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 18:46,M,HU,Information Technology,(45 - 80) JD,A,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 18:47,M,BAUM,Nursing,(10 - 40) JD,C,1,No,Yes,No,Yes,Yes,No,Yes,No
+11/8/2023 18:48,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 18:48,F,AAB,Foreign Languages,(10 - 40) JD,D,2,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 18:48,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 18:48,M,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 18:49,F,AAB,Sharia,(45 - 80) JD,C,4,No,Yes,Yes,No,Yes,Yes,Yes,No
+11/8/2023 18:49,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 18:49,M,AAB,Foreign Languages,(45 - 80) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 18:49,M,AAB,Foreign Languages,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 18:49,F,AAB,Literature,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 18:49,F,AAB,Foreign Languages,(10 - 40) JD,C,2,No,Yes,No,Yes,No,No,Yes,No
+11/8/2023 18:50,F,AAB,Foreign Languages,(10 - 40) JD,C,1,No,No,No,No,No,No,No,Yes
+11/8/2023 18:50,F,AAB,Literature,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 18:51,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 18:51,F,HU,Information Technology,(45 - 80) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 18:51,F,WISE,Information Technology,(45 - 80) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 18:51,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 18:52,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 18:53,M,BAUM,Business,(10 - 40) JD,C,2,No,No,No,No,No,No,No,Yes
+11/8/2023 18:53,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/8/2023 18:54,M,HU,Information Technology,(45 - 80) JD,C,4,Yes,No,No,No,Yes,No,No,No
+11/8/2023 18:55,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 18:55,F,ZU,Pharmacy,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 18:55,F,AAB,Foreign Languages,(45 - 80) JD,D,2,No,Yes,No,No,Yes,No,No,No
+11/8/2023 18:56,F,HU,Business,(10 - 40) JD,C,3,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 18:56,M,HU,Business,(45 - 80) JD,C,3,No,Yes,Yes,Yes,No,No,No,Yes
+11/8/2023 18:56,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 18:57,F,JU,Dentistry,(45 - 80) JD,B,2,Yes,No,Yes,No,Yes,Yes,No,No
+11/8/2023 18:57,F,WISE,Business,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 18:58,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,No,No,Yes,Yes,No,No,Yes
+11/8/2023 19:00,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 19:01,F,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 19:01,M,BAUM,Educational Sciences,(10 - 40) JD,D,3,No,No,No,No,Yes,No,No,No
+11/8/2023 19:02,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,No,No,No,Yes,No,No,No
+11/8/2023 19:02,M,BAUM,Business,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/8/2023 19:04,F,BAUM,Nursing,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 19:05,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 19:05,F,AAB,Literature,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/8/2023 19:05,M,BAUM,Nursing,(10 - 40) JD,B,2,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 19:05,F,BAUM,Nursing,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 19:05,F,BAUM,Nursing,(10 - 40) JD,D,2,No,Yes,No,No,No,No,Yes,No
+11/8/2023 19:06,F,AAB,Foreign Languages,(45 - 80) JD,A,1,No,No,Yes,No,Yes,Yes,Yes,Yes
+11/8/2023 19:06,M,BAUM,Business,(10 - 40) JD,B,2,No,No,No,No,No,Yes,No,No
+11/8/2023 19:06,F,BAUM,Rights,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 19:07,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 19:07,F,HU,Educational Sciences,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/8/2023 19:07,M,BAUM,Nursing,(10 - 40) JD,C,1,No,No,No,Yes,Yes,No,No,No
+11/8/2023 19:07,M,BAUM,Nursing,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/8/2023 19:08,F,AAB,Foreign Languages,(10 - 40) JD,B,3,No,No,No,Yes,No,No,Yes,No
+11/8/2023 19:08,M,BAUM,Nursing,(10 - 40) JD,D,1,No,No,No,No,Yes,Yes,Yes,No
+11/8/2023 19:09,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/8/2023 19:09,F,AAB,Literature,(10 - 40) JD,A,1,No,Yes,No,No,Yes,No,No,No
+11/8/2023 19:09,M,ZU,Arts and Design,(10 - 40) JD,A,3,Yes,No,Yes,Yes,No,Yes,No,No
+11/8/2023 19:10,F,AAB,Foreign Languages,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 19:10,M,AAB,Foreign Languages,(10 - 40) JD,B,3,No,No,No,Yes,No,No,No,No
+11/8/2023 19:10,F,BAUM,Allied Medical Sciences,(10 - 40) JD,D,1,No,No,No,No,Yes,No,No,Yes
+11/8/2023 19:10,F,WISE,Educational Sciences,(10 - 40) JD,A,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 19:11,M,AMAU,Dentistry,(80+) JD,B,2,No,No,No,No,Yes,Yes,No,No
+11/8/2023 19:11,F,HU,Allied Medical Sciences,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 19:12,F,AAB,Foreign Languages,(10 - 40) JD,B,4,No,Yes,No,No,No,No,Yes,No
+11/8/2023 19:13,M,BAUM,Business,(45 - 80) JD,B,3,Yes,Yes,No,No,No,No,Yes,No
+11/8/2023 19:13,F,HU,Information Technology,(45 - 80) JD,D,4,No,Yes,No,Yes,No,Yes,No,No
+11/8/2023 19:13,F,BAUM,Nursing,(45 - 80) JD,A,2,Yes,Yes,No,No,No,No,No,No
+11/8/2023 19:13,F,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 19:14,F,AAB,Foreign Languages,(10 - 40) JD,C,2,No,No,No,No,No,Yes,Yes,No
+11/8/2023 19:14,F,HU,Literature,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 19:15,F,HU,Natural Resources,(10 - 40) JD,C,2,No,Yes,No,No,No,No,No,No
+11/8/2023 19:16,F,HU,Medicine,(80+) JD,B,3,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 19:17,F,HU,Educational Sciences,(10 - 40) JD,B,2,No,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 19:18,M,HU,Information Technology,(45 - 80) JD,C,1,No,No,No,No,Yes,No,No,No
+11/8/2023 19:19,F,TTU,Science,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 19:20,F,AAB,Foreign Languages,(45 - 80) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 19:20,F,HU,Information Technology,(45 - 80) JD,A,4,Yes,Yes,No,No,Yes,No,No,Yes
+11/8/2023 19:20,M,PSUT,Engineering,(80+) JD,D,3,Yes,Yes,Yes,No,No,Yes,No,Yes
+11/8/2023 19:22,M,AAB,Foreign Languages,(10 - 40) JD,B,3,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 19:22,M,HU,Business,(10 - 40) JD,B,3,No,Yes,No,No,No,No,No,Yes
+11/8/2023 19:22,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 19:22,F,BAUM,Business,(10 - 40) JD,B,3,No,No,Yes,No,No,Yes,Yes,Yes
+11/8/2023 19:24,F,AAB,Foreign Languages,(10 - 40) JD,C,1,No,No,No,No,No,No,No,No
+11/8/2023 19:24,F,AAB,Foreign Languages,(10 - 40) JD,D,1,No,No,Yes,No,No,No,No,Yes
+11/8/2023 19:24,F,HU,Science,(10 - 40) JD,C,2,No,No,No,No,No,No,Yes,No
+11/8/2023 19:26,F,HU,Natural Resources,(10 - 40) JD,B,3,No,No,No,No,Yes,No,No,No
+11/8/2023 19:26,F,HU,Tourism,(10 - 40) JD,B,2,No,Yes,No,Yes,No,No,No,No
+11/8/2023 19:27,F,BAUM,Nursing,(10 - 40) JD,C,2,No,No,No,No,No,No,No,No
+11/8/2023 19:28,F,AAB,Literature,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 19:28,F,HU,Tourism,(10 - 40) JD,A,2,No,Yes,No,Yes,No,No,No,No
+11/8/2023 19:28,F,HU,Educational Sciences,(80+) JD,B,5,No,No,No,No,No,No,No,No
+11/8/2023 19:28,F,BAUM,Nursing,(10 - 40) JD,D,2,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 19:28,M,BAUM,Business,(10 - 40) JD,A,2,No,Yes,No,No,No,No,No,No
+11/8/2023 19:28,F,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 19:29,F,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 19:29,F,WISE,Information Technology,(45 - 80) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 19:30,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 19:30,F,HU,Educational Sciences,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 19:30,F,HU,Educational Sciences,(10 - 40) JD,D,2,No,Yes,No,No,Yes,No,No,No
+11/8/2023 19:32,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 19:33,F,JU,Foreign Languages,(10 - 40) JD,A,4,No,No,No,Yes,No,No,Yes,No
+11/8/2023 19:34,F,HU,Business,(10 - 40) JD,D,3,No,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 19:34,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 19:34,F,BAUM,Medicine,(10 - 40) JD,B,1,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 19:35,F,HU,Educational Sciences,(10 - 40) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 19:35,F,AAB,Foreign Languages,(10 - 40) JD,C,2,No,Yes,No,No,No,No,No,No
+11/8/2023 19:36,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 19:37,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 19:37,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 19:38,M,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 19:39,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 19:39,M,HU,Information Technology,(45 - 80) JD,A,4,Yes,Yes,No,No,Yes,No,No,Yes
+11/8/2023 19:39,M,AAB,Foreign Languages,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 19:39,F,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 19:44,F,HU,Information Technology,(45 - 80) JD,B,4,No,Yes,No,No,No,No,No,No
+11/8/2023 19:45,F,JU,Business,(10 - 40) JD,B,1,No,Yes,No,No,No,No,No,Yes
+11/8/2023 19:46,F,AAB,Foreign Languages,(10 - 40) JD,D,3,Yes,Yes,No,No,No,Yes,Yes,Yes
+11/8/2023 19:47,F,AAB,Foreign Languages,(10 - 40) JD,B,7,No,No,No,No,No,No,No,No
+11/8/2023 19:48,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 19:49,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 19:49,F,HU,Information Technology,(45 - 80) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 19:49,M,HU,Engineering,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 19:51,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 19:52,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,Yes,No,No,No,No
+11/8/2023 19:54,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 19:55,F,HU,Information Technology,(45 - 80) JD,B,3,No,No,Yes,No,Yes,No,No,No
+11/8/2023 19:55,F,JUST,Engineering,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 19:55,M,JU,Engineering,(10 - 40) JD,C,3,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 19:56,M,JU,Engineering,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 19:56,F,AAB,Foreign Languages,(10 - 40) JD,A,2,No,No,No,No,No,No,No,No
+11/8/2023 19:56,M,HU,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 19:57,F,ZU,Literature,(45 - 80) JD,D,4,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 19:58,M,HU,Business,(10 - 40) JD,C,4,No,Yes,Yes,No,Yes,No,No,Yes
+11/8/2023 19:58,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 19:58,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 19:59,M,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 20:00,F,AAB,Foreign Languages,(10 - 40) JD,C,1,No,Yes,No,No,No,No,No,No
+11/8/2023 20:00,M,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:00,F,AAB,Foreign Languages,(10 - 40) JD,D,1,No,No,No,No,Yes,No,No,No
+11/8/2023 20:02,F,BAUM,Information Technology,(45 - 80) JD,B,3,Yes,No,No,No,No,No,No,No
+11/8/2023 20:03,F,MU,Pharmacy,(80+) JD,B,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 20:03,M,ZU,Engineering,(10 - 40) JD,D,4,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 20:04,M,JU,Nursing,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:04,F,AAB,Foreign Languages,(10 - 40) JD,B,3,No,Yes,No,Yes,No,Yes,Yes,No
+11/8/2023 20:04,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 20:05,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:05,M,AHU,Rights,(80+) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 20:05,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,No,Yes,No,No,No,Yes
+11/8/2023 20:06,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 20:06,M,TTU,Engineering,(45 - 80) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 20:07,F,HU,Allied Medical Sciences,(10 - 40) JD,C,1,No,No,No,No,No,Yes,No,Yes
+11/8/2023 20:08,F,HU,Dentistry,(80+) JD,A,3,No,Yes,No,No,No,Yes,No,No
+11/8/2023 20:09,F,AAB,Foreign Languages,(10 - 40) JD,D,2,No,No,No,No,No,No,No,No
+11/8/2023 20:10,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:10,F,AAB,Foreign Languages,(45 - 80) JD,B,2,Yes,No,Yes,No,Yes,No,Yes,No
+11/8/2023 20:11,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,No,No,No,No,No,No,No
+11/8/2023 20:11,M,HU,Literature,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 20:14,M,JU,Engineering,(10 - 40) JD,D,3,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 20:14,M,HU,Nursing,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:14,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 20:15,F,HU,Business,(10 - 40) JD,B,3,Yes,No,No,Yes,Yes,No,No,No
+11/8/2023 20:15,M,BAUM,Business,(10 - 40) JD,C,2,No,No,No,No,No,No,No,No
+11/8/2023 20:16,F,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 20:18,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,No,Yes,Yes,Yes,No,Yes,No
+11/8/2023 20:22,F,BAUM,Nursing,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/8/2023 20:23,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,No,Yes,No,Yes,Yes,No
+11/8/2023 20:23,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 20:23,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 20:24,F,HU,Business,(10 - 40) JD,C,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 20:24,F,AAB,Literature,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 20:24,F,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 20:25,F,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 20:28,M,ZUJ,Business,(45 - 80) JD,C,3,No,Yes,No,No,No,Yes,No,No
+11/8/2023 20:28,F,AAB,Foreign Languages,(10 - 40) JD,B,2,Yes,No,No,No,No,No,No,No
+11/8/2023 20:29,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+11/8/2023 20:29,M,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 20:30,F,HU,Educational Sciences,(10 - 40) JD,C,4,No,Yes,No,No,Yes,Yes,No,Yes
+11/8/2023 20:30,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 20:32,M,MEU,Information Technology,(80+) JD,C,1,No,No,No,No,No,No,No,No
+11/8/2023 20:32,F,WISE,Business,(10 - 40) JD,C,2,No,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 20:33,M,BAUM,Nursing,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 20:38,F,HU,Engineering,(10 - 40) JD,B,5,No,No,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 20:39,F,HU,Educational Sciences,(45 - 80) JD,B,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 20:39,F,HU,Information Technology,(45 - 80) JD,A,3,No,No,No,No,No,No,No,No
+11/8/2023 20:41,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:41,F,HU,Natural Resources,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:46,F,AAB,Foreign Languages,(10 - 40) JD,B,1,No,Yes,No,No,No,No,No,No
+11/8/2023 20:47,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,Yes,Yes,No,Yes,Yes,No
+11/8/2023 20:47,F,AAB,Information Technology,(45 - 80) JD,C,2,Yes,No,Yes,Yes,No,No,No,No
+11/8/2023 20:47,F,HU,Business,(80+) JD,C,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/8/2023 20:49,M,HU,Nursing,(45 - 80) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:49,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+11/8/2023 20:51,M,JU,Engineering,(80+) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:52,M,JU,Medicine,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 20:53,F,HU,Business,(45 - 80) JD,B,2,Yes,Yes,No,No,No,No,No,Yes
+11/8/2023 20:54,M,JU,Medicine,(45 - 80) JD,B,3,No,No,No,Yes,No,No,No,No
+11/8/2023 20:55,M,JU,Medicine,(45 - 80) JD,A,3,Yes,No,Yes,No,Yes,Yes,Yes,No
+11/8/2023 20:56,M,HU,Business,(45 - 80) JD,C,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 20:57,F,HU,Business,(10 - 40) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 20:58,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 20:59,F,JU,Medicine,(80+) JD,C,3,Yes,Yes,Yes,No,No,No,Yes,No
+11/8/2023 21:01,F,JU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/8/2023 21:02,F,HU,Business,(10 - 40) JD,A,3,No,Yes,No,Yes,No,No,No,No
+11/8/2023 21:03,F,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 21:06,F,AAB,Foreign Languages,(10 - 40) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 21:06,M,JU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 21:08,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 21:09,F,BAUM,Nursing,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 21:10,M,HU,Nursing,(10 - 40) JD,A,4,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 21:11,M,HU,Nursing,(10 - 40) JD,A,4,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 21:12,M,JU,Medicine,(45 - 80) JD,B,2,No,Yes,Yes,No,Yes,No,No,No
+11/8/2023 21:13,M,HTU,Engineering,(45 - 80) JD,B,1,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 21:20,F,HU,Information Technology,(45 - 80) JD,B,4,No,Yes,No,No,Yes,No,Yes,No
+11/8/2023 21:20,M,JU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 21:20,F,HU,Science,(10 - 40) JD,A,4,No,No,No,Yes,No,No,Yes,No
+11/8/2023 21:20,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 21:21,M,HTU,Engineering,(45 - 80) JD,B,1,No,No,No,No,Yes,No,No,No
+11/8/2023 21:22,M,ZUJ,Business,(10 - 40) JD,B,1,No,Yes,No,No,No,Yes,Yes,No
+11/8/2023 21:23,M,JU,Medicine,(80+) JD,B,3,Yes,No,Yes,Yes,Yes,No,No,Yes
+11/8/2023 21:26,F,HU,Information Technology,(45 - 80) JD,B,2,No,No,No,No,No,No,Yes,No
+11/8/2023 21:27,F,HU,Engineering,(10 - 40) JD,D,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 21:28,F,AAB,Arts and Design,(45 - 80) JD,B,2,Yes,Yes,Yes,No,No,No,Yes,Yes
+11/8/2023 21:29,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,No,No,No,Yes,Yes
+11/8/2023 21:30,F,HU,Pharmacy,(45 - 80) JD,C,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 21:30,M,BAUM,Nursing,(10 - 40) JD,C,2,Yes,Yes,No,No,No,No,No,No
+11/8/2023 21:31,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 21:32,M,PSUT,Information Technology,(80+) JD,B,1,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 21:33,M,AAB,Nursing,(45 - 80) JD,A,3,Yes,Yes,Yes,No,No,No,Yes,No
+11/8/2023 21:33,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 21:34,F,HU,Allied Medical Sciences,(10 - 40) JD,B,2,No,Yes,No,Yes,No,No,No,No
+11/8/2023 21:34,F,AAB,Foreign Languages,(10 - 40) JD,A,2,No,No,No,No,No,No,No,No
+11/8/2023 21:34,F,HU,Educational Sciences,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 21:35,F,JU,Educational Sciences,(10 - 40) JD,A,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 21:35,F,AHU,Literature,(10 - 40) JD,B,3,No,No,No,No,No,Yes,Yes,No
+11/8/2023 21:35,M,ZUJ,Business,(45 - 80) JD,C,4,No,Yes,No,Yes,Yes,Yes,Yes,No
+11/8/2023 21:35,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 21:35,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,No,Yes,No,Yes,No,Yes,Yes
+11/8/2023 21:36,M,HU,Science,(10 - 40) JD,C,2,No,No,No,No,Yes,Yes,No,No
+11/8/2023 21:37,F,HU,Business,(10 - 40) JD,B,4,No,Yes,No,Yes,Yes,No,No,No
+11/8/2023 21:39,M,PSUT,Business,(80+) JD,B,1,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 21:40,M,TTU,Engineering,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 21:41,M,AAB,Science,(10 - 40) JD,D,2,Yes,Yes,No,No,No,No,Yes,No
+11/8/2023 21:42,F,AAB,Foreign Languages,(10 - 40) JD,C,2,No,Yes,No,Yes,No,No,Yes,No
+11/8/2023 21:42,F,BAUM,Nursing,(10 - 40) JD,D,2,No,Yes,No,No,Yes,No,Yes,Yes
+11/8/2023 21:43,F,AAB,Foreign Languages,(10 - 40) JD,C,2,No,No,No,No,No,No,No,No
+11/8/2023 21:43,F,JU,Business,(10 - 40) JD,B,4,Yes,Yes,No,No,No,No,No,No
+11/8/2023 21:43,F,JU,Nursing,(80+) JD,A,4,No,No,No,No,No,No,No,No
+11/8/2023 21:44,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 21:45,F,HU,Dentistry,(10 - 40) JD,A,7,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 21:46,F,HU,Business,(10 - 40) JD,C,4,No,No,No,No,Yes,No,No,No
+11/8/2023 21:47,M,HU,Medicine,(80+) JD,A,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 21:49,M,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 21:49,F,ZUJ,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 21:51,M,JUST,Information Technology,(10 - 40) JD,A,2,Yes,No,No,No,No,Yes,No,Yes
+11/8/2023 21:51,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 21:52,M,IU,Allied Medical Sciences,(45 - 80) JD,B,3,No,Yes,No,No,No,No,No,No
+11/8/2023 21:53,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/8/2023 21:55,M,IU,Allied Medical Sciences,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 21:55,F,HU,Business,(10 - 40) JD,C,5,No,No,No,No,No,No,No,No
+11/8/2023 21:55,M,HU,Natural Resources,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 21:58,M,AUM,Business,(80+) JD,A,1,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/8/2023 21:58,F,HU,Educational Sciences,(10 - 40) JD,A,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 22:00,M,IU,Allied Medical Sciences,(45 - 80) JD,B,3,No,No,No,No,No,No,No,No
+11/8/2023 22:01,F,JU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 22:01,M,IU,Allied Medical Sciences,(45 - 80) JD,A,3,No,No,No,No,No,No,No,No
+11/8/2023 22:02,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,No,No,No,Yes,No
+11/8/2023 22:02,F,HU,Information Technology,(45 - 80) JD,A,4,Yes,No,Yes,Yes,Yes,No,No,No
+11/8/2023 22:03,F,HU,Business,(10 - 40) JD,C,4,Yes,No,Yes,No,Yes,No,No,No
+11/8/2023 22:06,M,HU,Information Technology,(45 - 80) JD,B,2,No,No,No,No,Yes,Yes,No,No
+11/8/2023 22:07,M,HU,Literature,(10 - 40) JD,B,4,No,Yes,No,No,No,No,No,No
+11/8/2023 22:07,F,BAUM,Nursing,(80+) JD,D,2,No,No,No,No,Yes,No,No,No
+11/8/2023 22:08,M,HU,Information Technology,(80+) JD,C,3,No,Yes,Yes,Yes,No,No,Yes,No
+11/8/2023 22:11,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/8/2023 22:12,F,JUST,Pharmacy,(10 - 40) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 22:15,F,HU,Science,(10 - 40) JD,C,4,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 22:16,F,HU,Literature,(10 - 40) JD,B,1,No,No,No,Yes,No,No,No,No
+11/8/2023 22:16,M,AAB,Foreign Languages,(10 - 40) JD,B,3,No,No,No,No,No,No,No,No
+11/8/2023 22:18,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,No,Yes,Yes,No,Yes,Yes,No
+11/8/2023 22:20,M,JU,Medicine,(45 - 80) JD,C,2,Yes,No,No,No,No,No,No,No
+11/8/2023 22:20,M,IU,Allied Medical Sciences,(45 - 80) JD,B,3,No,Yes,Yes,Yes,No,No,No,No
+11/8/2023 22:22,F,HU,Medicine,(45 - 80) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 22:23,F,HU,Natural Resources,(10 - 40) JD,B,1,No,Yes,No,No,No,No,No,No
+11/8/2023 22:24,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,No,No,Yes,No,No
+11/8/2023 22:25,F,WISE,Sharia,(10 - 40) JD,D,4,Yes,Yes,No,No,No,No,No,No
+11/8/2023 22:25,F,HU,Medicine,(45 - 80) JD,A,1,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 22:25,M,JU,Business,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 22:26,M,IU,Allied Medical Sciences,(45 - 80) JD,A,5,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 22:27,F,HU,Medicine,(80+) JD,A,1,Yes,No,Yes,No,Yes,No,Yes,No
+11/8/2023 22:29,F,HU,Business,(10 - 40) JD,C,4,Yes,No,Yes,No,Yes,No,Yes,No
+11/8/2023 22:30,F,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 22:31,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 22:32,F,AAB,Foreign Languages,(10 - 40) JD,B,1,No,Yes,No,No,No,No,No,No
+11/8/2023 22:33,M,BAUM,Medicine,(80+) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 22:35,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 22:35,M,AAB,Foreign Languages,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 22:35,M,BAUM,Information Technology,(45 - 80) JD,D,2,Yes,No,No,No,Yes,Yes,Yes,No
+11/8/2023 22:36,F,HU,Engineering,(45 - 80) JD,C,2,Yes,Yes,No,Yes,No,No,Yes,No
+11/8/2023 22:39,F,HU,Literature,(45 - 80) JD,C,2,Yes,No,No,No,Yes,No,No,Yes
+11/8/2023 22:39,F,HU,Business,(10 - 40) JD,C,2,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 22:40,F,HU,Arts and Design,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 22:40,F,HU,Business,(10 - 40) JD,C,4,No,No,No,No,Yes,No,No,No
+11/8/2023 22:40,M,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 22:41,F,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 22:41,M,JU,Pharmacy,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 22:41,M,HU,Tourism,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 22:42,F,HU,Educational Sciences,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/8/2023 22:44,F,JU,Dentistry,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 22:47,M,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/8/2023 22:47,F,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 22:47,M,GJU,Information Technology,(80+) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 22:47,F,HU,Medicine,(80+) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 22:48,F,JU,Foreign Languages,(45 - 80) JD,C,2,No,No,No,Yes,Yes,No,No,Yes
+11/8/2023 22:49,M,JU,Pharmacy,(45 - 80) JD,B,3,Yes,No,No,Yes,No,No,No,No
+11/8/2023 22:50,F,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 22:50,F,HU,Medicine,(80+) JD,A,1,No,No,No,No,No,No,No,No
+11/8/2023 22:50,M,HU,Medicine,(80+) JD,A,1,No,No,No,Yes,Yes,No,No,No
+11/8/2023 22:51,M,HU,Medicine,(80+) JD,A,1,No,Yes,No,No,Yes,No,No,No
+11/8/2023 22:51,F,HU,Medicine,(80+) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 22:51,F,HU,Information Technology,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 22:51,F,BAUM,Medicine,(80+) JD,B,2,No,No,No,No,No,No,No,No
+11/8/2023 22:51,M,HU,Medicine,(80+) JD,A,1,No,Yes,No,No,No,No,No,No
+11/8/2023 22:53,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 22:55,M,JU,Information Technology,(80+) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 22:55,F,HU,Childhood,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,Yes,No,No
+11/8/2023 22:56,M,HU,Engineering,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 22:56,M,JU,Pharmacy,(10 - 40) JD,C,3,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 22:57,M,PSUT,Information Technology,(80+) JD,C,2,No,Yes,No,Yes,No,Yes,Yes,No
+11/8/2023 22:58,F,PSUT,Information Technology,(80+) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 22:58,M,HU,Business,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/8/2023 22:59,M,HU,Information Technology,(45 - 80) JD,A,2,No,No,No,No,No,No,No,No
+11/8/2023 22:59,M,JU,Pharmacy,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 22:59,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 22:59,F,JU,Pharmacy,(80+) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 23:05,F,IU,Allied Medical Sciences,(45 - 80) JD,C,3,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 23:06,F,HU,Literature,(10 - 40) JD,C,2,No,Yes,No,No,No,No,No,No
+11/8/2023 23:10,F,JU,Foreign Languages,(45 - 80) JD,B,5,Yes,Yes,No,Yes,Yes,No,No,No
+11/8/2023 23:11,F,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 23:13,F,HU,Natural Resources,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/8/2023 23:14,F,HU,Business,(45 - 80) JD,C,4,Yes,Yes,No,Yes,No,No,No,No
+11/8/2023 23:15,M,BAUM,Business,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,Yes
+11/8/2023 23:16,M,HTU,Engineering,(45 - 80) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 23:19,F,HU,Information Technology,(45 - 80) JD,B,4,No,Yes,Yes,No,No,No,No,No
+11/8/2023 23:20,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/8/2023 23:21,M,HU,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/8/2023 23:21,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/8/2023 23:24,M,JU,Pharmacy,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/8/2023 23:26,M,HU,Engineering,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/8/2023 23:27,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,No,No,Yes,Yes
+11/8/2023 23:27,M,AAB,Business,(10 - 40) JD,B,4,No,Yes,No,No,No,No,No,No
+11/8/2023 23:27,F,HU,Natural Resources,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/8/2023 23:27,M,HU,Information Technology,(45 - 80) JD,C,4,Yes,No,Yes,Yes,No,No,No,No
+11/8/2023 23:31,F,HU,Literature,(10 - 40) JD,A,1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+11/8/2023 23:41,M,JUST,Pharmacy,(10 - 40) JD,D,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/8/2023 23:42,M,HU,Medicine,(80+) JD,A,5,Yes,Yes,Yes,No,No,No,Yes,No
+11/8/2023 23:47,M,AMAU,Arts and Design,(80+) JD,B,1,No,No,No,Yes,No,No,No,No
+11/8/2023 23:47,M,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/8/2023 23:56,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/8/2023 23:56,M,BAUM,Business,(10 - 40) JD,D,3,No,Yes,Yes,No,Yes,No,Yes,No
+11/8/2023 23:57,F,HU,Information Technology,(45 - 80) JD,A,5,Yes,No,No,No,Yes,No,No,No
+11/9/2023 0:03,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 0:11,M,HTU,Engineering,(45 - 80) JD,A,1,No,No,No,No,Yes,No,No,No
+11/9/2023 0:16,M,BAUM,Science,(45 - 80) JD,D,2,Yes,Yes,No,No,No,Yes,Yes,No
+11/9/2023 0:19,F,HU,Engineering,(10 - 40) JD,C,4,Yes,Yes,No,No,Yes,Yes,No,No
+11/9/2023 0:20,M,PSUT,Business,(80+) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 0:22,M,BAUM,Nursing,(10 - 40) JD,D,1,No,Yes,No,Yes,No,No,Yes,No
+11/9/2023 0:38,F,IU,Allied Medical Sciences,(45 - 80) JD,A,1,No,No,No,No,Yes,No,No,No
+11/9/2023 0:41,M,BAUM,Medicine,(80+) JD,C,4,No,Yes,Yes,Yes,No,No,No,No
+11/9/2023 0:46,M,HU,Medicine,(80+) JD,C,3,Yes,No,Yes,No,Yes,No,No,No
+11/9/2023 0:49,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 0:51,M,AAB,Engineering,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/9/2023 0:53,F,HU,Science,(10 - 40) JD,B,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 0:53,M,YU,Literature,(45 - 80) JD,B,1,No,Yes,No,No,No,No,No,No
+11/9/2023 0:54,F,BAUM,Childhood,(45 - 80) JD,D,2,No,No,No,No,Yes,No,No,No
+11/9/2023 0:54,F,JUST,Allied Medical Sciences,(45 - 80) JD,B,2,No,No,No,No,Yes,Yes,No,No
+11/9/2023 0:54,F,JUST,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 0:55,F,JUST,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 0:56,M,AAU,Information Technology,(10 - 40) JD,B,1,Yes,Yes,No,No,No,No,No,No
+11/9/2023 0:57,F,JUST,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 0:58,F,JUST,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/9/2023 0:59,M,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 1:00,F,JUST,Engineering,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/9/2023 1:00,F,JUST,Information Technology,(45 - 80) JD,B,3,No,Yes,No,No,Yes,No,No,Yes
+11/9/2023 1:01,M,HTU,Mathematics,(10 - 40) JD,D,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 1:01,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 1:02,F,UOP,Dentistry,(80+) JD,A,1,No,No,No,No,Yes,No,No,No
+11/9/2023 1:02,F,BAUM,Science,(45 - 80) JD,C,2,No,No,No,No,No,No,No,No
+11/9/2023 1:12,M,HU,Information Technology,(45 - 80) JD,C,4,No,No,No,No,Yes,Yes,No,No
+11/9/2023 1:13,M,ZU,Nursing,(10 - 40) JD,A,1,No,No,No,Yes,No,No,No,No
+11/9/2023 1:19,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,No,No,No,Yes
+11/9/2023 1:23,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 1:32,M,esrs.unrwa,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 1:35,F,esrs.unrwa,Educational Sciences,(10 - 40) JD,A,1,No,Yes,No,No,No,No,Yes,No
+11/9/2023 1:36,F,esrs.unrwa,Business,(10 - 40) JD,B,2,No,No,Yes,No,No,Yes,No,No
+11/9/2023 1:40,F,esrs.unrwa,Literature,(10 - 40) JD,B,4,No,Yes,No,No,No,No,No,No
+11/9/2023 1:46,M,WISE,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 1:51,M,IU,Allied Medical Sciences,(45 - 80) JD,B,3,No,Yes,No,No,No,No,No,No
+11/9/2023 1:56,F,BAUM,Business,(10 - 40) JD,A,2,Yes,Yes,No,No,No,No,Yes,No
+11/9/2023 1:57,M,WISE,Information Technology,(45 - 80) JD,C,4,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 1:57,F,WISE,Information Technology,(45 - 80) JD,A,4,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/9/2023 1:59,F,WISE,Business,(10 - 40) JD,D,2,Yes,No,No,Yes,Yes,No,Yes,Yes
+11/9/2023 2:00,F,JUST,Information Technology,(10 - 40) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 2:02,F,WISE,Information Technology,(45 - 80) JD,A,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 2:11,M,WISE,Information Technology,(45 - 80) JD,C,4,No,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 2:13,F,IU,Allied Medical Sciences,(45 - 80) JD,C,3,No,No,No,No,No,No,No,No
+11/9/2023 2:13,M,JUST,Engineering,(10 - 40) JD,B,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 2:43,F,WISE,Information Technology,(45 - 80) JD,A,1,No,Yes,Yes,No,No,No,Yes,No
+11/9/2023 2:45,F,HU,Business,(10 - 40) JD,C,2,No,No,No,Yes,Yes,No,No,No
+11/9/2023 3:17,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 3:29,M,HU,Science,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 3:30,F,HU,Information Technology,(45 - 80) JD,C,5,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/9/2023 3:31,F,AAB,Foreign Languages,(10 - 40) JD,B,2,Yes,No,No,No,No,No,Yes,No
+11/9/2023 3:46,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 4:29,F,esrs.unrwa,Business,(10 - 40) JD,D,2,Yes,Yes,No,No,No,No,No,No
+11/9/2023 4:42,M,JUST,Pharmacy,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/9/2023 4:58,M,HU,Information Technology,(80+) JD,D,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/9/2023 6:01,F,JU,Medicine,(45 - 80) JD,B,3,No,Yes,No,Yes,No,No,No,No
+11/9/2023 6:10,F,BAUM,Engineering,(45 - 80) JD,C,3,No,Yes,Yes,No,No,No,No,Yes
+11/9/2023 6:19,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 6:22,F,JUST,Science,(10 - 40) JD,B,3,No,No,No,No,Yes,No,No,No
+11/9/2023 6:30,F,esrs.unrwa,Pharmacy,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/9/2023 6:31,F,esrs.unrwa,Dentistry,(10 - 40) JD,A,1,No,No,Yes,Yes,Yes,Yes,No,Yes
+11/9/2023 6:38,M,HU,Business,(10 - 40) JD,C,3,No,No,Yes,Yes,Yes,No,No,Yes
+11/9/2023 6:40,F,esrs.unrwa,Allied Medical Sciences,(10 - 40) JD,A,2,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/9/2023 6:53,M,HU,Natural Resources,(10 - 40) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 6:55,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,Yes,Yes,No
+11/9/2023 6:55,F,esrs.unrwa,Nursing,(10 - 40) JD,A,1,Yes,No,No,No,No,No,Yes,No
+11/9/2023 6:57,F,esrs.unrwa,Allied Medical Sciences,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/9/2023 7:27,F,BAUM,Nursing,(10 - 40) JD,C,2,No,Yes,No,No,No,No,No,No
+11/9/2023 7:30,F,AAB,Foreign Languages,(10 - 40) JD,C,2,Yes,No,No,No,No,No,No,Yes
+11/9/2023 7:37,F,JUST,Science,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 7:41,F,HU,Childhood,(10 - 40) JD,C,2,Yes,Yes,No,No,No,No,No,No
+11/9/2023 7:45,F,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,No,No,No,Yes,Yes,No
+11/9/2023 7:47,M,JU,Medicine,(10 - 40) JD,C,1,No,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 7:47,M,IU,Allied Medical Sciences,(45 - 80) JD,A,3,No,Yes,No,No,No,No,No,No
+11/9/2023 7:48,M,WISE,Information Technology,(45 - 80) JD,B,6,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 7:56,F,esrs.unrwa,Allied Medical Sciences,(10 - 40) JD,A,2,No,Yes,No,Yes,Yes,No,No,No
+11/9/2023 8:01,M,ZUJ,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 8:05,F,BAUM,Nursing,(10 - 40) JD,B,1,No,Yes,No,Yes,No,No,Yes,No
+11/9/2023 8:12,M,HU,Business,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/9/2023 8:18,F,JUST,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 8:20,M,HU,Engineering,(10 - 40) JD,B,5,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 8:20,F,HU,Natural Resources,(10 - 40) JD,D,4,Yes,No,No,No,Yes,No,No,Yes
+11/9/2023 8:31,F,esrs.unrwa,Business,(10 - 40) JD,A,2,No,No,No,No,Yes,No,No,No
+11/9/2023 8:33,M,HU,Information Technology,(45 - 80) JD,B,2,No,Yes,Yes,Yes,No,Yes,No,No
+11/9/2023 8:36,M,JUST,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 9:03,F,esrs.unrwa,Information Technology,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/9/2023 9:09,M,HU,Engineering,(10 - 40) JD,C,3,No,No,Yes,No,No,No,No,No
+11/9/2023 9:20,F,WISE,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 9:21,F,esrs.unrwa,Literature,(10 - 40) JD,B,2,No,Yes,No,No,Yes,Yes,Yes,Yes
+11/9/2023 9:28,F,esrs.unrwa,Business,(10 - 40) JD,A,7,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 9:29,F,esrs.unrwa,Business,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,Yes
+11/9/2023 9:35,F,JUST,Information Technology,(45 - 80) JD,C,3,Yes,Yes,No,No,No,Yes,Yes,No
+11/9/2023 9:45,F,IU,Allied Medical Sciences,(45 - 80) JD,B,2,No,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 9:48,F,AAB,Foreign Languages,(45 - 80) JD,B,2,Yes,Yes,No,No,No,Yes,Yes,Yes
+11/9/2023 9:50,F,AAB,Foreign Languages,(45 - 80) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 9:51,F,esrs.unrwa,Business,(10 - 40) JD,C,2,No,Yes,No,No,No,No,Yes,No
+11/9/2023 9:52,F,JUST,Dentistry,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 9:57,F,WISE,Information Technology,(45 - 80) JD,B,4,No,Yes,No,No,No,No,No,No
+11/9/2023 9:59,F,esrs.unrwa,Business,(80+) JD,B,2,Yes,No,No,Yes,No,Yes,Yes,No
+11/9/2023 10:00,F,esrs.unrwa,Business,(80+) JD,B,2,Yes,No,No,Yes,No,Yes,Yes,Yes
+11/9/2023 10:04,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 10:05,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 10:05,F,YU,Pharmacy,(45 - 80) JD,A,4,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 10:05,F,YU,Pharmacy,(45 - 80) JD,A,4,No,No,No,No,Yes,Yes,No,No
+11/9/2023 10:06,F,jadara,Pharmacy,(80+) JD,D,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 10:08,M,YU,Information Technology,(45 - 80) JD,A,1,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/9/2023 10:10,F,JUST,Information Technology,(45 - 80) JD,B,4,No,No,No,No,Yes,No,Yes,No
+11/9/2023 10:14,F,AAB,Rights,(10 - 40) JD,D,3,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/9/2023 10:22,F,HU,Information Technology,(45 - 80) JD,A,4,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 10:23,F,HU,Nursing,(10 - 40) JD,A,1,Yes,No,Yes,Yes,Yes,No,No,No
+11/9/2023 10:24,F,HU,Information Technology,(45 - 80) JD,B,4,No,Yes,Yes,No,No,No,No,No
+11/9/2023 10:25,M,PSUT,Business,(80+) JD,C,3,No,No,No,No,No,No,No,No
+11/9/2023 10:29,M,esrs.unrwa,Nursing,(10 - 40) JD,B,2,No,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 10:30,F,HU,Information Technology,(45 - 80) JD,B,4,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 10:33,F,esrs.unrwa,Information Technology,(10 - 40) JD,A,2,No,Yes,No,No,Yes,Yes,Yes,No
+11/9/2023 10:35,M,JU,Medicine,(80+) JD,B,1,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 10:35,F,AAB,Information Technology,(10 - 40) JD,D,2,Yes,No,No,No,Yes,No,No,No
+11/9/2023 10:38,F,HU,Information Technology,(45 - 80) JD,B,3,No,No,No,No,Yes,No,No,No
+11/9/2023 10:47,F,AAB,Foreign Languages,(10 - 40) JD,C,1,No,Yes,No,No,No,No,No,No
+11/9/2023 10:54,F,esrs.unrwa,Information Technology,(10 - 40) JD,B,1,No,No,No,No,No,No,No,Yes
+11/9/2023 10:58,F,HU,Literature,(10 - 40) JD,A,3,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 11:01,M,JUST,Allied Medical Sciences,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 11:01,F,esrs.unrwa,Business,(10 - 40) JD,B,2,No,No,No,No,No,Yes,No,No
+11/9/2023 11:01,F,YU,Allied Medical Sciences,(10 - 40) JD,B,2,Yes,No,No,Yes,Yes,No,No,No
+11/9/2023 11:08,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 11:10,M,MU,Medicine,(80+) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 11:13,M,HTU,Engineering,(45 - 80) JD,B,1,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 11:17,M,WISE,Information Technology,(45 - 80) JD,C,4,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 11:18,F,esrs.unrwa,Business,(10 - 40) JD,A,1,Yes,Yes,No,Yes,No,No,No,Yes
+11/9/2023 11:19,F,AAB,Educational Sciences,(10 - 40) JD,C,1,No,Yes,No,No,Yes,No,No,No
+11/9/2023 11:24,M,MU,Educational Sciences,(10 - 40) JD,B,3,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 11:26,F,HU,Pharmacy,(45 - 80) JD,A,2,Yes,No,Yes,No,No,No,No,No
+11/9/2023 11:31,M,WISE,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/9/2023 11:33,F,JU,Information Technology,(80+) JD,D,2,Yes,Yes,Yes,No,No,Yes,No,No
+11/9/2023 11:39,M,HU,Literature,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/9/2023 11:39,M,JUST,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+11/9/2023 11:40,M,JU,Tourism,(10 - 40) JD,B,2,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 11:41,F,esrs.unrwa,Pharmacy,(10 - 40) JD,B,2,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 11:42,M,JU,Tourism,(10 - 40) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/9/2023 11:49,M,MU,Medicine,(80+) JD,B,3,No,No,No,No,No,No,No,No
+11/9/2023 11:49,F,BAUM,Business,(10 - 40) JD,C,2,No,No,No,No,Yes,No,Yes,Yes
+11/9/2023 11:50,F,AAB,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 11:54,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+11/9/2023 11:55,F,ASU,Arts and Design,(45 - 80) JD,A,2,No,Yes,No,Yes,No,No,Yes,No
+11/9/2023 11:57,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 11:58,F,ASU,Literature,(45 - 80) JD,B,2,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 11:59,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 12:00,F,ASU,Business,(45 - 80) JD,C,3,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 12:00,F,JUST,Engineering,(45 - 80) JD,B,2,No,Yes,Yes,Yes,No,No,Yes,Yes
+11/9/2023 12:02,F,ASU,Literature,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 12:03,F,YU,Pharmacy,(45 - 80) JD,A,4,No,No,No,No,Yes,Yes,No,No
+11/9/2023 12:07,F,esrs.unrwa,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 12:08,F,HU,Information Technology,(45 - 80) JD,C,4,No,Yes,No,Yes,Yes,No,No,No
+11/9/2023 12:15,M,JUST,Engineering,(45 - 80) JD,C,5,Yes,No,Yes,Yes,Yes,No,No,No
+11/9/2023 12:24,F,JUST,Medicine,(80+) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 12:32,M,HU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 12:32,M,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 12:33,F,JUST,Pharmacy,(80+) JD,A,1,No,No,No,Yes,Yes,No,No,Yes
+11/9/2023 12:34,F,ASU,Information Technology,(45 - 80) JD,A,1,Yes,No,No,Yes,Yes,No,Yes,No
+11/9/2023 12:34,F,JU,Science,(10 - 40) JD,B,2,Yes,No,No,No,Yes,Yes,Yes,Yes
+11/9/2023 12:36,F,YU,Medicine,(80+) JD,A,2,No,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 12:36,M,JUST,Engineering,(10 - 40) JD,A,1,No,No,No,Yes,No,No,No,No
+11/9/2023 12:37,F,AAB,Foreign Languages,(10 - 40) JD,A,2,Yes,Yes,No,No,Yes,Yes,No,No
+11/9/2023 12:38,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 12:40,F,ZU,Dentistry,(80+) JD,A,2,No,Yes,No,No,No,Yes,No,No
+11/9/2023 12:41,F,HU,Engineering,(10 - 40) JD,B,1,Yes,No,Yes,No,Yes,No,No,No
+11/9/2023 12:42,M,HU,Information Technology,(45 - 80) JD,A,2,No,Yes,No,No,No,Yes,No,No
+11/9/2023 12:43,M,HU,Childhood,(10 - 40) JD,B,1,No,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 12:43,F,HU,Nursing,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 12:45,M,HU,Business,(10 - 40) JD,B,3,No,Yes,No,No,Yes,No,No,No
+11/9/2023 12:46,M,HU,Engineering,(10 - 40) JD,A,1,No,No,No,No,Yes,No,Yes,No
+11/9/2023 12:46,M,HU,Business,(10 - 40) JD,A,2,No,No,No,Yes,No,No,No,No
+11/9/2023 12:52,M,esrs.unrwa,Business,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 12:57,M,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 13:01,F,HU,Engineering,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:02,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 13:04,M,HU,Engineering,(45 - 80) JD,B,1,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 13:05,F,JUST,Information Technology,(10 - 40) JD,C,4,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 13:06,F,HU,Educational Sciences,(10 - 40) JD,A,5,No,Yes,Yes,Yes,No,No,No,No
+11/9/2023 13:07,M,MU,Medicine,(45 - 80) JD,C,2,Yes,No,No,Yes,Yes,No,No,No
+11/9/2023 13:08,F,AUM,Business,(45 - 80) JD,B,1,No,Yes,No,No,Yes,No,No,No
+11/9/2023 13:11,F,HU,Educational Sciences,(80+) JD,B,5,No,No,No,No,No,No,No,No
+11/9/2023 13:13,M,JUST,Medicine,(80+) JD,A,5,Yes,Yes,No,No,Yes,Yes,Yes,No
+11/9/2023 13:14,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 13:17,M,MU,Medicine,(45 - 80) JD,A,3,Yes,No,No,No,Yes,No,No,Yes
+11/9/2023 13:17,M,MU,Medicine,(45 - 80) JD,A,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 13:17,F,MU,Medicine,(45 - 80) JD,A,3,No,Yes,No,Yes,No,No,No,No
+11/9/2023 13:18,F,HU,Business,(10 - 40) JD,C,4,No,No,Yes,No,No,No,No,No
+11/9/2023 13:19,M,MU,Medicine,(45 - 80) JD,C,2,No,Yes,No,Yes,Yes,No,No,No
+11/9/2023 13:20,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:20,F,HU,Educational Sciences,(10 - 40) JD,B,3,No,Yes,No,Yes,No,No,No,No
+11/9/2023 13:20,F,MU,Medicine,(45 - 80) JD,B,3,Yes,No,Yes,No,Yes,No,No,No
+11/9/2023 13:21,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:21,F,MU,Medicine,(45 - 80) JD,B,3,No,Yes,No,Yes,Yes,No,No,No
+11/9/2023 13:22,F,MU,Medicine,(45 - 80) JD,C,3,Yes,No,No,Yes,Yes,No,No,Yes
+11/9/2023 13:22,F,MU,Medicine,(45 - 80) JD,C,3,Yes,No,No,Yes,Yes,No,No,Yes
+11/9/2023 13:24,F,MU,Medicine,(45 - 80) JD,A,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 13:25,F,MU,Medicine,(10 - 40) JD,C,3,No,Yes,No,No,No,No,No,Yes
+11/9/2023 13:25,F,HU,Information Technology,(45 - 80) JD,B,2,No,Yes,No,No,No,No,No,No
+11/9/2023 13:25,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:26,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,No,No,No,Yes,Yes
+11/9/2023 13:26,M,MU,Medicine,(80+) JD,C,3,No,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 13:26,M,MU,Medicine,(45 - 80) JD,B,3,Yes,No,Yes,No,Yes,Yes,Yes,No
+11/9/2023 13:27,M,MU,Medicine,(45 - 80) JD,A,1,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 13:27,M,MU,Medicine,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 13:28,F,MU,Medicine,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:29,M,BAUM,Engineering,(10 - 40) JD,B,3,Yes,No,Yes,Yes,Yes,Yes,No,No
+11/9/2023 13:30,M,MU,Medicine,(80+) JD,B,3,Yes,No,No,No,No,No,No,No
+11/9/2023 13:31,M,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:31,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:31,M,BAUM,Engineering,(10 - 40) JD,A,3,No,No,No,Yes,Yes,No,Yes,No
+11/9/2023 13:31,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:32,M,MU,Medicine,(45 - 80) JD,B,3,Yes,No,Yes,No,Yes,Yes,Yes,No
+11/9/2023 13:33,M,MU,Medicine,(10 - 40) JD,C,3,Yes,No,Yes,Yes,No,No,Yes,No
+11/9/2023 13:33,M,MU,Medicine,(80+) JD,A,3,No,No,Yes,No,Yes,No,No,No
+11/9/2023 13:34,F,MU,Medicine,(45 - 80) JD,A,3,No,Yes,No,Yes,No,Yes,No,No
+11/9/2023 13:35,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 13:35,M,MU,Medicine,(80+) JD,B,3,No,No,No,No,Yes,No,No,No
+11/9/2023 13:36,F,YU,Engineering,(10 - 40) JD,A,1,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 13:36,F,MU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 13:38,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:38,M,HU,Business,(10 - 40) JD,C,2,Yes,No,No,Yes,Yes,No,Yes,Yes
+11/9/2023 13:39,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/9/2023 13:40,F,YU,Business,(10 - 40) JD,A,1,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 13:40,F,HU,Childhood,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 13:40,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 13:40,F,INU,Science,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 13:40,M,HU,Science,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,Yes
+11/9/2023 13:41,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 13:43,F,HU,Childhood,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 13:44,M,esrs.unrwa,Business,(10 - 40) JD,B,2,No,Yes,No,No,No,Yes,Yes,No
+11/9/2023 13:44,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 13:45,F,JUST,Engineering,(45 - 80) JD,A,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 13:45,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:46,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 13:47,M,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:48,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 13:48,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 13:48,M,MU,Medicine,(80+) JD,B,3,No,No,No,No,Yes,No,No,No
+11/9/2023 13:49,F,WISE,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 13:49,M,MU,Medicine,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 13:49,M,JUST,Engineering,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 13:50,F,MU,Medicine,(45 - 80) JD,B,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:51,F,HU,Tourism,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 13:52,F,MU,Medicine,(45 - 80) JD,A,5,No,No,No,No,Yes,No,No,No
+11/9/2023 13:54,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:55,M,MU,Medicine,(80+) JD,B,3,Yes,No,No,Yes,Yes,No,No,Yes
+11/9/2023 13:55,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 13:55,M,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 13:56,F,MU,Medicine,(45 - 80) JD,A,3,No,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 13:57,F,MU,Medicine,(80+) JD,C,3,No,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 13:57,F,MU,Medicine,(80+) JD,A,3,Yes,No,No,Yes,Yes,No,No,No
+11/9/2023 13:57,F,YU,Childhood,(10 - 40) JD,D,4,No,Yes,No,No,No,No,No,No
+11/9/2023 13:58,F,MU,Medicine,(80+) JD,B,3,No,Yes,Yes,No,Yes,No,No,Yes
+11/9/2023 14:00,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 14:01,M,HU,Science,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 14:02,F,JUST,Engineering,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 14:05,F,MU,Medicine,(45 - 80) JD,B,3,No,No,No,No,No,No,No,No
+11/9/2023 14:06,M,MU,Medicine,(80+) JD,B,3,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+11/9/2023 14:07,F,JUST,Engineering,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 14:08,F,MU,Medicine,(80+) JD,A,3,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/9/2023 14:09,F,HU,Science,(10 - 40) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 14:09,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:11,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:11,F,HU,Childhood,(10 - 40) JD,B,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+11/9/2023 14:11,F,JU,Business,(45 - 80) JD,C,2,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 14:12,F,MU,Medicine,(80+) JD,B,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:12,F,HU,Information Technology,(45 - 80) JD,C,2,No,No,No,Yes,Yes,No,Yes,No
+11/9/2023 14:12,F,JUST,Pharmacy,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 14:12,M,JUST,Engineering,(45 - 80) JD,C,4,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 14:13,M,MU,Medicine,(80+) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 14:14,F,MU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 14:15,F,JUST,Engineering,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/9/2023 14:16,M,HU,Business,(10 - 40) JD,D,2,Yes,No,No,Yes,No,No,Yes,Yes
+11/9/2023 14:17,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/9/2023 14:17,F,MU,Information Technology,(10 - 40) JD,A,1,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 14:17,M,MU,Medicine,(45 - 80) JD,A,3,Yes,No,No,Yes,Yes,No,No,No
+11/9/2023 14:17,M,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,Yes,No,No
+11/9/2023 14:19,M,JUST,Allied Medical Sciences,(10 - 40) JD,B,2,Yes,Yes,No,No,No,No,Yes,No
+11/9/2023 14:19,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/9/2023 14:20,F,JUST,Engineering,(10 - 40) JD,B,2,No,Yes,Yes,No,No,No,No,No
+11/9/2023 14:20,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:20,F,MU,Rights,(10 - 40) JD,A,1,No,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 14:21,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 14:22,F,MU,Medicine,(10 - 40) JD,A,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 14:22,F,MU,Medicine,(80+) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:24,F,MU,Medicine,(80+) JD,B,3,No,Yes,No,No,No,Yes,No,Yes
+11/9/2023 14:24,F,MU,Medicine,(45 - 80) JD,B,3,No,Yes,Yes,Yes,No,Yes,No,Yes
+11/9/2023 14:24,M,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/9/2023 14:25,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 14:26,M,MU,Business,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 14:28,F,YU,Science,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/9/2023 14:28,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 14:29,F,JUST,Pharmacy,(10 - 40) JD,B,2,No,No,No,No,Yes,Yes,No,No
+11/9/2023 14:29,M,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/9/2023 14:30,F,HU,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 14:32,F,JUST,Medicine,(10 - 40) JD,B,1,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 14:33,M,JUST,Engineering,(10 - 40) JD,A,2,No,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 14:33,F,JU,Sharia,(10 - 40) JD,B,4,No,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 14:33,F,HU,Childhood,(10 - 40) JD,A,2,No,No,No,No,Yes,Yes,Yes,No
+11/9/2023 14:34,M,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 14:37,M,MU,Medicine,(45 - 80) JD,B,3,Yes,No,Yes,Yes,Yes,No,No,No
+11/9/2023 14:37,F,HU,Educational Sciences,(10 - 40) JD,C,2,No,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 14:41,F,HU,Childhood,(10 - 40) JD,A,2,No,Yes,No,No,Yes,No,No,No
+11/9/2023 14:41,F,AAB,Business,(10 - 40) JD,C,2,No,Yes,No,No,Yes,Yes,No,No
+11/9/2023 14:42,M,JUST,Engineering,(10 - 40) JD,C,5,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 14:43,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 14:43,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/9/2023 14:46,F,HU,Pharmacy,(80+) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/9/2023 14:46,F,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:46,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 14:47,M,MU,Medicine,(45 - 80) JD,B,3,No,Yes,No,No,Yes,Yes,No,No
+11/9/2023 14:48,F,JUST,Allied Medical Sciences,(10 - 40) JD,C,2,No,No,No,Yes,No,No,No,No
+11/9/2023 14:52,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:52,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,No,No,No,No,Yes,Yes
+11/9/2023 14:55,M,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,No,No,Yes,No,No,Yes
+11/9/2023 14:56,M,HU,Information Technology,(80+) JD,C,2,No,No,No,No,Yes,No,Yes,No
+11/9/2023 14:57,M,JUST,Engineering,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 14:57,M,esrs.unrwa,Nursing,(10 - 40) JD,B,1,Yes,Yes,No,No,No,No,No,No
+11/9/2023 14:58,F,YU,Information Technology,(45 - 80) JD,A,1,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 14:59,F,JUST,Allied Medical Sciences,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 14:59,F,JUST,Engineering,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 14:59,F,HU,Childhood,(10 - 40) JD,B,2,No,Yes,No,No,No,Yes,No,No
+11/9/2023 15:01,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:01,M,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 15:01,F,HU,Information Technology,(45 - 80) JD,D,2,Yes,No,Yes,Yes,Yes,No,No,No
+11/9/2023 15:02,M,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:02,M,WISE,Information Technology,(45 - 80) JD,C,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 15:02,M,MU,Medicine,(80+) JD,D,1,Yes,Yes,Yes,No,No,No,No,Yes
+11/9/2023 15:03,M,MU,Medicine,(45 - 80) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 15:04,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 15:05,M,JUST,Science,(80+) JD,B,1,No,No,Yes,No,No,Yes,No,No
+11/9/2023 15:05,F,JUST,Engineering,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 15:05,F,YU,Rights,(10 - 40) JD,A,1,No,Yes,No,No,No,Yes,No,No
+11/9/2023 15:06,M,YU,Information Technology,(45 - 80) JD,A,1,No,Yes,Yes,No,No,No,No,No
+11/9/2023 15:06,F,MU,Medicine,(45 - 80) JD,B,3,No,Yes,No,No,No,No,No,No
+11/9/2023 15:07,M,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 15:09,M,BAUM,Business,(10 - 40) JD,C,2,No,No,No,No,No,No,No,No
+11/9/2023 15:10,F,BAUM,Nursing,(10 - 40) JD,D,2,No,No,No,No,No,No,No,No
+11/9/2023 15:13,M,JUST,Allied Medical Sciences,(45 - 80) JD,B,6,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+11/9/2023 15:14,F,HU,Childhood,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 15:14,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 15:17,F,HU,Childhood,(10 - 40) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 15:19,M,JUST,Allied Medical Sciences,(80+) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:20,F,AAB,Business,(10 - 40) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 15:20,F,HU,Educational Sciences,(10 - 40) JD,C,4,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 15:21,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:21,M,MU,Sharia,(45 - 80) JD,A,1,No,No,No,No,No,No,No,No
+11/9/2023 15:21,F,HU,Literature,(10 - 40) JD,B,2,No,No,No,Yes,Yes,No,Yes,No
+11/9/2023 15:21,M,JUST,Engineering,(45 - 80) JD,A,4,Yes,No,Yes,No,No,No,No,No
+11/9/2023 15:22,M,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:22,F,JUST,Nursing,(10 - 40) JD,A,3,No,Yes,No,No,Yes,Yes,No,Yes
+11/9/2023 15:22,F,MU,Medicine,(80+) JD,A,3,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/9/2023 15:23,M,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,No,No,Yes,No,No,Yes
+11/9/2023 15:23,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:24,M,JUST,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 15:24,M,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 15:27,M,HU,Information Technology,(45 - 80) JD,A,4,Yes,No,No,No,Yes,No,No,Yes
+11/9/2023 15:33,F,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 15:33,M,WISE,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 15:34,F,HU,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:35,F,HU,Childhood,(10 - 40) JD,B,3,No,Yes,No,No,Yes,No,No,No
+11/9/2023 15:36,F,HU,Childhood,(10 - 40) JD,B,3,No,Yes,No,No,Yes,No,No,No
+11/9/2023 15:36,F,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 15:36,F,JUST,Science,(10 - 40) JD,B,1,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 15:38,F,MU,Medicine,(80+) JD,A,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 15:39,F,MU,Medicine,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:39,F,MU,Medicine,(45 - 80) JD,A,1,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 15:39,F,MU,Medicine,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 15:40,F,HU,Science,(10 - 40) JD,D,7,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:41,M,JUST,Allied Medical Sciences,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+11/9/2023 15:41,M,HU,Childhood,(10 - 40) JD,B,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 15:41,F,MU,Medicine,(45 - 80) JD,B,2,No,Yes,Yes,No,No,No,No,No
+11/9/2023 15:42,F,MU,Medicine,(80+) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 15:44,M,MU,Medicine,(80+) JD,B,2,No,No,No,Yes,No,No,No,Yes
+11/9/2023 15:47,F,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 15:47,M,MU,Medicine,(45 - 80) JD,A,2,No,No,No,No,Yes,Yes,No,No
+11/9/2023 15:49,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:49,M,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:49,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 15:50,F,MU,Medicine,(45 - 80) JD,B,2,No,Yes,Yes,Yes,No,No,No,Yes
+11/9/2023 15:51,F,MU,Medicine,(80+) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:53,F,JUST,Engineering,(45 - 80) JD,B,5,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/9/2023 15:53,M,HU,Information Technology,(45 - 80) JD,D,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 15:55,M,MU,Medicine,(10 - 40) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 15:55,M,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:55,M,HU,Engineering,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:55,M,BAUM,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 15:56,M,JUST,Engineering,(10 - 40) JD,C,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 16:00,F,JUST,Medicine,(10 - 40) JD,A,1,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/9/2023 16:00,F,MU,Medicine,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 16:00,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 16:01,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,No,No,No,Yes,Yes,Yes,No
+11/9/2023 16:01,M,MU,Engineering,(10 - 40) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 16:03,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 16:05,F,JUST,Engineering,(10 - 40) JD,C,5,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 16:05,F,MU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 16:09,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 16:10,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 16:10,M,HU,Engineering,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 16:10,M,JUST,Engineering,(10 - 40) JD,B,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/9/2023 16:13,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 16:15,F,MU,Medicine,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 16:15,F,HU,Business,(10 - 40) JD,B,1,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 16:18,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 16:21,F,HU,Allied Medical Sciences,(10 - 40) JD,B,2,Yes,No,Yes,Yes,Yes,No,Yes,No
+11/9/2023 16:25,M,JUST,Medicine,(45 - 80) JD,B,1,No,No,No,Yes,No,No,No,No
+11/9/2023 16:26,M,MU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 16:28,F,JUST,Engineering,(10 - 40) JD,C,3,No,No,Yes,No,Yes,No,No,No
+11/9/2023 16:29,F,MU,Medicine,(80+) JD,A,2,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/9/2023 16:30,F,MU,Business,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 16:30,F,HU,Childhood,(10 - 40) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 16:31,M,JUST,Allied Medical Sciences,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 16:33,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 16:35,M,MU,Literature,(10 - 40) JD,C,1,Yes,Yes,No,No,Yes,No,Yes,Yes
+11/9/2023 16:36,M,HU,Information Technology,(45 - 80) JD,B,1,No,No,No,No,Yes,No,No,No
+11/9/2023 16:40,M,MU,Engineering,(45 - 80) JD,B,3,No,Yes,No,Yes,No,Yes,Yes,Yes
+11/9/2023 16:40,M,JUST,Engineering,(10 - 40) JD,D,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 16:42,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 16:42,F,MU,Medicine,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 16:47,M,MU,Medicine,(80+) JD,C,1,Yes,No,No,Yes,Yes,No,No,No
+11/9/2023 16:47,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 16:47,F,MU,Medicine,(45 - 80) JD,B,2,No,Yes,No,No,No,No,No,No
+11/9/2023 16:48,M,JUST,Engineering,(10 - 40) JD,C,5,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 16:48,M,MU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 16:50,F,MU,Medicine,(80+) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/9/2023 16:52,M,MU,Engineering,(10 - 40) JD,B,4,Yes,Yes,No,No,No,No,Yes,No
+11/9/2023 16:52,F,HU,Childhood,(10 - 40) JD,B,4,No,Yes,No,Yes,Yes,No,No,No
+11/9/2023 16:53,F,JUST,Allied Medical Sciences,(10 - 40) JD,B,2,Yes,No,Yes,Yes,No,No,No,No
+11/9/2023 16:56,F,HU,Literature,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 17:01,F,WISE,Information Technology,(45 - 80) JD,B,4,No,No,No,Yes,No,No,No,No
+11/9/2023 17:02,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/9/2023 17:03,F,MU,Medicine,(80+) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 17:04,M,JUST,Engineering,(10 - 40) JD,A,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 17:05,F,JUST,Engineering,(10 - 40) JD,B,3,No,Yes,Yes,No,No,Yes,Yes,No
+11/9/2023 17:07,M,WISE,Information Technology,(45 - 80) JD,B,4,No,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 17:10,F,JUST,Allied Medical Sciences,(45 - 80) JD,A,1,No,No,No,No,No,No,No,No
+11/9/2023 17:11,F,HU,Science,(10 - 40) JD,D,4,No,No,No,No,No,No,No,No
+11/9/2023 17:11,M,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 17:12,F,MU,Medicine,(80+) JD,A,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 17:13,M,MU,Nursing,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 17:14,F,MU,Medicine,(80+) JD,C,2,Yes,No,Yes,Yes,Yes,Yes,No,No
+11/9/2023 17:15,F,JUST,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 17:18,F,MU,Medicine,(80+) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 17:19,F,HU,Science,(10 - 40) JD,B,4,No,Yes,Yes,No,No,No,No,No
+11/9/2023 17:19,F,JUST,Engineering,(10 - 40) JD,B,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 17:20,F,HU,Science,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 17:22,M,HU,Business,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 17:24,F,HU,Science,(10 - 40) JD,B,4,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/9/2023 17:26,F,WISE,Information Technology,(45 - 80) JD,B,4,No,No,No,No,No,No,No,No
+11/9/2023 17:28,F,HU,Business,(10 - 40) JD,C,3,No,Yes,No,Yes,Yes,No,No,No
+11/9/2023 17:28,F,HU,Science,(10 - 40) JD,B,4,No,No,No,No,Yes,No,No,Yes
+11/9/2023 17:28,F,HU,Science,(10 - 40) JD,C,4,No,Yes,Yes,Yes,No,Yes,No,Yes
+11/9/2023 17:29,F,YU,Tourism,(10 - 40) JD,B,4,Yes,Yes,No,No,No,No,Yes,Yes
+11/9/2023 17:31,F,HU,Engineering,(10 - 40) JD,B,3,No,Yes,No,No,Yes,Yes,No,No
+11/9/2023 17:33,F,HU,Science,(10 - 40) JD,A,1,Yes,No,No,No,No,No,No,Yes
+11/9/2023 17:33,F,HU,Educational Sciences,(10 - 40) JD,C,3,No,No,No,No,Yes,No,No,Yes
+11/9/2023 17:33,F,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 17:33,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 17:34,F,HU,Literature,(10 - 40) JD,A,4,No,Yes,No,No,Yes,Yes,No,Yes
+11/9/2023 17:34,F,HU,Science,(10 - 40) JD,A,2,No,Yes,No,No,Yes,No,No,No
+11/9/2023 17:35,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 17:36,F,JUST,Engineering,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 17:37,M,HU,Information Technology,(45 - 80) JD,D,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 17:38,M,HU,Business,(45 - 80) JD,C,3,No,Yes,No,Yes,No,No,No,No
+11/9/2023 17:38,F,ZUJ,Business,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 17:39,F,HU,Literature,(10 - 40) JD,A,4,No,Yes,No,No,No,No,No,No
+11/9/2023 17:41,F,HU,Science,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 17:41,F,ZU,Dentistry,(80+) JD,A,2,Yes,Yes,No,No,No,Yes,No,No
+11/9/2023 17:43,F,BAUM,Literature,(10 - 40) JD,B,4,No,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 17:46,F,HU,Business,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/9/2023 17:47,M,WISE,Information Technology,(45 - 80) JD,C,3,No,Yes,No,No,Yes,Yes,No,No
+11/9/2023 17:47,F,HU,Literature,(10 - 40) JD,B,4,No,Yes,No,No,Yes,No,No,Yes
+11/9/2023 17:47,F,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 17:48,F,BAUM,Literature,(10 - 40) JD,B,4,No,No,No,No,Yes,No,No,No
+11/9/2023 17:48,F,HU,Science,(10 - 40) JD,B,3,No,Yes,No,No,No,Yes,Yes,No
+11/9/2023 17:48,F,HU,Literature,(45 - 80) JD,A,4,No,No,No,No,Yes,No,No,No
+11/9/2023 17:49,F,BAUM,Literature,(10 - 40) JD,B,4,No,Yes,No,Yes,Yes,No,No,Yes
+11/9/2023 17:51,F,HU,Science,(10 - 40) JD,B,2,No,No,No,No,Yes,No,Yes,No
+11/9/2023 17:51,F,MU,Medicine,(45 - 80) JD,A,2,No,No,No,No,Yes,No,No,No
+11/9/2023 17:52,F,HU,Business,(10 - 40) JD,B,4,No,Yes,Yes,Yes,No,No,No,Yes
+11/9/2023 17:52,F,BAUM,Literature,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 17:52,F,AAB,Educational Sciences,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 17:52,M,HU,Business,(10 - 40) JD,A,2,No,No,Yes,Yes,Yes,No,No,No
+11/9/2023 17:54,F,WISE,Educational Sciences,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/9/2023 17:57,F,HU,Engineering,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+11/9/2023 17:58,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 18:02,F,HU,Natural Resources,(10 - 40) JD,B,3,Yes,No,No,Yes,No,Yes,No,No
+11/9/2023 18:03,M,JUST,Engineering,(45 - 80) JD,A,5,No,Yes,Yes,No,Yes,No,Yes,No
+11/9/2023 18:04,M,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/9/2023 18:07,F,HU,Information Technology,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:08,F,HU,Science,(10 - 40) JD,C,2,No,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 18:09,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:10,F,MU,Pharmacy,(45 - 80) JD,A,1,No,Yes,No,No,Yes,No,No,Yes
+11/9/2023 18:12,M,HU,Information Technology,(45 - 80) JD,A,2,No,No,No,No,Yes,No,No,No
+11/9/2023 18:13,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:14,F,HU,Business,(10 - 40) JD,B,4,No,Yes,No,No,Yes,No,No,No
+11/9/2023 18:15,M,HU,Business,(45 - 80) JD,C,3,No,No,No,No,No,Yes,No,No
+11/9/2023 18:15,F,HU,Educational Sciences,(10 - 40) JD,A,3,No,No,No,No,Yes,No,No,No
+11/9/2023 18:16,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:17,F,HU,Educational Sciences,(10 - 40) JD,C,4,Yes,Yes,No,No,No,No,Yes,No
+11/9/2023 18:19,F,HU,Science,(10 - 40) JD,C,3,Yes,No,Yes,No,Yes,No,No,Yes
+11/9/2023 18:19,F,IU,Allied Medical Sciences,(45 - 80) JD,C,3,No,Yes,No,No,Yes,No,No,Yes
+11/9/2023 18:20,F,MU,Medicine,(45 - 80) JD,C,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:20,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:21,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:28,F,JUST,Allied Medical Sciences,(10 - 40) JD,C,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 18:28,F,JUST,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 18:29,M,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:31,F,HU,Educational Sciences,(10 - 40) JD,B,5,Yes,No,No,Yes,Yes,No,No,No
+11/9/2023 18:32,F,HU,Natural Resources,(10 - 40) JD,C,2,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+11/9/2023 18:32,F,HU,Allied Medical Sciences,(10 - 40) JD,B,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 18:33,M,HU,Business,(10 - 40) JD,C,2,No,Yes,Yes,Yes,No,Yes,Yes,No
+11/9/2023 18:33,F,HU,Educational Sciences,(80+) JD,C,2,No,Yes,No,No,No,No,No,No
+11/9/2023 18:34,F,HU,Childhood,(10 - 40) JD,C,1,No,Yes,No,No,No,No,No,No
+11/9/2023 18:34,M,HU,Science,(10 - 40) JD,C,2,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 18:35,F,HU,Childhood,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/9/2023 18:36,F,HU,Childhood,(10 - 40) JD,C,2,No,No,No,No,No,Yes,No,No
+11/9/2023 18:37,F,HU,Science,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 18:39,M,HU,Science,(10 - 40) JD,B,4,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 18:40,F,JU,Educational Sciences,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/9/2023 18:40,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,No,No,No,Yes,Yes,No,Yes
+11/9/2023 18:40,F,HU,Educational Sciences,(10 - 40) JD,B,3,No,Yes,Yes,No,No,No,No,No
+11/9/2023 18:42,M,MU,Engineering,(10 - 40) JD,C,4,No,No,No,No,No,No,Yes,No
+11/9/2023 18:42,F,JUST,Allied Medical Sciences,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/9/2023 18:42,F,JU,Nursing,(10 - 40) JD,B,2,No,No,No,No,No,Yes,No,No
+11/9/2023 18:42,F,HU,Science,(10 - 40) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/9/2023 18:42,F,HU,Educational Sciences,(45 - 80) JD,C,2,No,Yes,No,No,No,Yes,No,No
+11/9/2023 18:42,F,JU,Science,(45 - 80) JD,A,1,No,No,No,No,No,No,No,No
+11/9/2023 18:42,F,HU,Literature,(45 - 80) JD,B,1,No,Yes,No,No,Yes,No,No,No
+11/9/2023 18:43,M,HU,Allied Medical Sciences,(10 - 40) JD,C,3,No,No,No,No,No,No,Yes,No
+11/9/2023 18:43,F,HU,Science,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 18:43,F,HU,Engineering,(10 - 40) JD,A,1,No,No,No,No,Yes,No,Yes,No
+11/9/2023 18:43,F,HU,Tourism,(10 - 40) JD,A,1,No,No,No,No,No,No,No,Yes
+11/9/2023 18:43,F,HU,Arts and Design,(10 - 40) JD,A,1,No,No,No,Yes,Yes,No,No,No
+11/9/2023 18:44,F,HU,Literature,(10 - 40) JD,B,4,No,No,No,Yes,Yes,No,Yes,No
+11/9/2023 18:45,F,WISE,Information Technology,(45 - 80) JD,A,4,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 18:45,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 18:45,M,HU,Allied Medical Sciences,(10 - 40) JD,C,3,No,No,No,No,No,Yes,Yes,No
+11/9/2023 18:46,F,HU,Allied Medical Sciences,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 18:47,M,JUST,Information Technology,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 18:47,F,AHU,Rights,(10 - 40) JD,A,1,No,Yes,No,Yes,No,No,No,No
+11/9/2023 18:49,F,HU,Science,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 18:50,M,HU,Engineering,(10 - 40) JD,D,2,No,No,No,Yes,No,No,No,Yes
+11/9/2023 18:51,F,HU,Nursing,(10 - 40) JD,A,1,No,No,No,Yes,Yes,No,Yes,No
+11/9/2023 18:53,M,HU,Information Technology,(10 - 40) JD,B,2,Yes,No,No,Yes,No,Yes,Yes,No
+11/9/2023 18:54,F,MU,Medicine,(80+) JD,B,2,No,Yes,Yes,No,No,No,No,No
+11/9/2023 18:54,F,HU,Natural Resources,(10 - 40) JD,C,2,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 18:54,F,HU,Science,(10 - 40) JD,A,2,No,Yes,No,No,No,Yes,No,No
+11/9/2023 18:57,F,WISE,Information Technology,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 18:57,F,AHU,Engineering,(45 - 80) JD,B,1,No,No,No,No,Yes,No,No,No
+11/9/2023 18:59,M,HU,Information Technology,(45 - 80) JD,B,3,No,Yes,No,Yes,No,No,Yes,No
+11/9/2023 19:00,F,HU,Allied Medical Sciences,(10 - 40) JD,B,1,No,No,No,Yes,No,No,No,No
+11/9/2023 19:00,M,WISE,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,No,No,No,No,Yes
+11/9/2023 19:00,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 19:01,F,BAUM,Literature,(45 - 80) JD,B,4,No,Yes,Yes,No,No,No,Yes,No
+11/9/2023 19:02,F,HU,Allied Medical Sciences,(10 - 40) JD,C,1,No,Yes,No,No,Yes,No,No,No
+11/9/2023 19:03,F,HU,Educational Sciences,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/9/2023 19:04,F,JU,Science,(10 - 40) JD,B,1,No,No,No,No,Yes,Yes,No,No
+11/9/2023 19:04,F,HU,Engineering,(10 - 40) JD,A,2,Yes,Yes,No,No,No,No,No,No
+11/9/2023 19:06,F,HU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 19:08,F,MU,Medicine,(80+) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 19:10,M,JUST,Engineering,(10 - 40) JD,B,3,No,No,No,No,Yes,No,No,No
+11/9/2023 19:11,F,HU,Childhood,(10 - 40) JD,C,4,Yes,No,No,Yes,Yes,Yes,Yes,No
+11/9/2023 19:15,F,HU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 19:15,F,HU,Pharmacy,(45 - 80) JD,C,3,No,Yes,No,No,No,No,No,No
+11/9/2023 19:15,M,MU,Medicine,(45 - 80) JD,B,2,No,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 19:16,F,HU,Allied Medical Sciences,(10 - 40) JD,C,1,No,No,No,No,Yes,No,No,Yes
+11/9/2023 19:18,F,HU,Science,(10 - 40) JD,C,2,No,No,No,No,No,No,Yes,No
+11/9/2023 19:21,M,MU,Engineering,(10 - 40) JD,A,4,No,Yes,Yes,No,No,No,No,Yes
+11/9/2023 19:23,M,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,Yes,No,No,No,No,Yes,No
+11/9/2023 19:23,F,HU,Tourism,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 19:29,F,esrs.unrwa,Literature,(10 - 40) JD,B,2,Yes,No,No,No,Yes,No,No,No
+11/9/2023 19:34,F,HU,Business,(10 - 40) JD,C,4,No,Yes,No,No,Yes,No,No,No
+11/9/2023 19:36,M,YU,Educational Sciences,(10 - 40) JD,D,4,No,No,No,No,Yes,No,No,No
+11/9/2023 19:38,F,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 19:38,F,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 19:39,M,HU,Science,(10 - 40) JD,C,2,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 19:39,F,HU,Science,(10 - 40) JD,A,1,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 19:40,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,No,No,No,Yes,Yes,No
+11/9/2023 19:40,M,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 19:40,F,HU,Science,(10 - 40) JD,A,1,No,No,No,Yes,No,No,No,No
+11/9/2023 19:41,F,HU,Allied Medical Sciences,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 19:41,M,YU,Engineering,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 19:44,F,MU,Medicine,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 19:45,F,HU,Literature,(10 - 40) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 19:45,M,MU,Medicine,(45 - 80) JD,B,3,No,No,Yes,No,Yes,Yes,Yes,Yes
+11/9/2023 19:48,F,JU,Dentistry,(10 - 40) JD,A,1,Yes,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 19:48,F,AAB,Foreign Languages,(10 - 40) JD,B,2,Yes,Yes,No,No,Yes,No,Yes,No
+11/9/2023 19:49,F,GJU,Rights,(45 - 80) JD,A,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 19:49,F,HU,Business,(45 - 80) JD,D,3,No,No,No,No,No,No,No,No
+11/9/2023 19:49,M,ZU,Arts and Design,(10 - 40) JD,C,4,No,No,No,No,Yes,Yes,No,No
+11/9/2023 19:49,F,JU,Sharia,(45 - 80) JD,A,1,No,Yes,No,No,No,No,No,No
+11/9/2023 19:49,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 19:51,F,HU,Natural Resources,(10 - 40) JD,A,1,No,Yes,No,No,Yes,Yes,No,No
+11/9/2023 19:53,M,HU,Science,(10 - 40) JD,D,4,Yes,No,Yes,No,Yes,No,No,No
+11/9/2023 19:55,F,BAUM,Business,(80+) JD,D,7,No,No,Yes,Yes,Yes,No,No,No
+11/9/2023 19:56,F,BAUM,Engineering,(10 - 40) JD,B,1,No,No,No,No,Yes,Yes,No,Yes
+11/9/2023 19:57,F,esrs.unrwa,Foreign Languages,(10 - 40) JD,A,1,No,Yes,Yes,No,No,Yes,No,Yes
+11/9/2023 19:57,M,HU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 19:58,F,HU,Allied Medical Sciences,(45 - 80) JD,D,5,Yes,Yes,No,No,Yes,No,No,Yes
+11/9/2023 19:59,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 20:04,F,HU,Information Technology,(45 - 80) JD,B,2,No,No,No,No,Yes,No,No,No
+11/9/2023 20:06,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 20:08,F,HU,Childhood,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,Yes
+11/9/2023 20:12,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 20:14,F,MU,Medicine,(80+) JD,C,3,Yes,No,Yes,Yes,No,No,Yes,No
+11/9/2023 20:18,F,HU,Educational Sciences,(10 - 40) JD,C,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 20:20,M,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,No,No,No,Yes,Yes,No
+11/9/2023 20:21,F,BAUM,Pharmacy,(80+) JD,B,3,No,Yes,Yes,Yes,No,Yes,Yes,No
+11/9/2023 20:21,F,WISE,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 20:24,M,HU,Business,(45 - 80) JD,C,2,No,Yes,No,Yes,Yes,Yes,Yes,No
+11/9/2023 20:26,M,JU,Science,(80+) JD,B,3,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 20:27,F,JUST,Nursing,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/9/2023 20:27,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/9/2023 20:29,F,MU,Engineering,(10 - 40) JD,A,1,Yes,No,No,No,Yes,Yes,Yes,No
+11/9/2023 20:31,F,HU,Childhood,(10 - 40) JD,C,2,No,Yes,No,No,No,No,Yes,No
+11/9/2023 20:31,F,HU,Information Technology,(45 - 80) JD,B,3,No,No,No,No,Yes,No,No,No
+11/9/2023 20:34,F,HU,Science,(10 - 40) JD,B,1,No,Yes,No,No,Yes,No,No,No
+11/9/2023 20:35,M,HU,Business,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 20:35,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 20:37,F,HU,Nursing,(10 - 40) JD,B,3,No,No,No,No,Yes,No,No,No
+11/9/2023 20:39,F,HU,Science,(10 - 40) JD,A,3,Yes,No,Yes,No,Yes,No,No,No
+11/9/2023 20:40,M,HU,Business,(80+) JD,A,4,Yes,No,No,Yes,No,No,Yes,Yes
+11/9/2023 20:40,F,WISE,Information Technology,(45 - 80) JD,A,4,No,No,No,No,Yes,No,No,No
+11/9/2023 20:44,F,HU,Science,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 20:45,M,JU,Science,(45 - 80) JD,C,3,No,No,No,Yes,Yes,No,Yes,No
+11/9/2023 20:46,F,HU,Childhood,(10 - 40) JD,D,3,Yes,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 20:48,M,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/9/2023 20:50,F,HU,Business,(10 - 40) JD,D,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 20:50,M,HU,Business,(45 - 80) JD,C,3,No,Yes,Yes,Yes,No,No,No,No
+11/9/2023 20:50,F,HU,Engineering,(10 - 40) JD,B,4,Yes,No,Yes,No,No,No,No,No
+11/9/2023 20:53,M,JU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 20:53,F,WISE,Information Technology,(45 - 80) JD,A,4,No,No,No,No,No,No,No,Yes
+11/9/2023 20:54,F,HU,Business,(45 - 80) JD,B,1,No,No,No,No,No,Yes,Yes,No
+11/9/2023 20:55,M,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 20:55,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,No,Yes,No,Yes,Yes,No
+11/9/2023 20:56,M,JU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 20:58,F,HU,Information Technology,(45 - 80) JD,B,3,No,No,No,No,Yes,Yes,No,No
+11/9/2023 20:59,F,HU,Business,(45 - 80) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 21:01,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 21:01,F,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+11/9/2023 21:03,M,HU,Business,(45 - 80) JD,B,4,No,No,No,Yes,No,Yes,Yes,No
+11/9/2023 21:04,F,HU,Business,(10 - 40) JD,B,3,No,Yes,No,Yes,No,No,No,Yes
+11/9/2023 21:05,M,HU,Business,(45 - 80) JD,A,5,No,No,No,Yes,No,No,Yes,No
+11/9/2023 21:06,M,JU,Science,(45 - 80) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 21:07,M,HU,Business,(10 - 40) JD,A,3,No,No,No,Yes,No,Yes,Yes,No
+11/9/2023 21:08,M,HU,Business,(45 - 80) JD,C,3,No,No,No,No,Yes,No,No,No
+11/9/2023 21:08,M,HU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 21:09,F,HU,Pharmacy,(45 - 80) JD,B,2,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 21:09,M,HU,Business,(80+) JD,B,3,Yes,No,No,No,Yes,No,Yes,No
+11/9/2023 21:10,F,HU,Medicine,(80+) JD,A,3,Yes,Yes,Yes,No,No,No,No,Yes
+11/9/2023 21:12,M,JUST,Engineering,(10 - 40) JD,A,4,No,No,No,No,Yes,Yes,No,No
+11/9/2023 21:12,F,HU,Childhood,(10 - 40) JD,A,2,No,No,No,No,Yes,Yes,No,No
+11/9/2023 21:12,F,HU,Business,(80+) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 21:13,F,HU,Pharmacy,(80+) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 21:14,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 21:15,F,HU,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 21:16,F,HU,Business,(10 - 40) JD,A,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 21:16,F,MU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+11/9/2023 21:21,M,HU,Information Technology,(45 - 80) JD,D,1,No,No,No,No,Yes,No,No,No
+11/9/2023 21:22,F,HU,Literature,(10 - 40) JD,A,3,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 21:22,M,HU,Science,(10 - 40) JD,C,4,No,No,No,No,Yes,No,No,No
+11/9/2023 21:24,F,HU,Business,(45 - 80) JD,D,4,No,Yes,Yes,No,No,Yes,No,Yes
+11/9/2023 21:24,F,HU,Mathematics,(10 - 40) JD,C,4,Yes,No,Yes,Yes,Yes,No,No,Yes
+11/9/2023 21:25,F,BAUM,Pharmacy,(10 - 40) JD,C,4,No,Yes,No,No,Yes,No,No,No
+11/9/2023 21:25,F,BAUM,Pharmacy,(10 - 40) JD,C,2,No,Yes,No,No,No,Yes,No,No
+11/9/2023 21:26,F,HU,Pharmacy,(45 - 80) JD,A,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 21:26,F,HU,Business,(10 - 40) JD,C,3,No,Yes,No,Yes,Yes,No,No,No
+11/9/2023 21:29,F,JUST,Engineering,(10 - 40) JD,C,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 21:30,F,HU,Literature,(10 - 40) JD,B,2,No,Yes,No,No,No,No,No,No
+11/9/2023 21:30,F,HU,Pharmacy,(80+) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 21:30,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 21:31,F,HU,Science,(10 - 40) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 21:31,M,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 21:33,F,HU,Business,(10 - 40) JD,A,3,No,No,No,No,No,No,No,No
+11/9/2023 21:33,M,JUST,Engineering,(10 - 40) JD,C,4,Yes,No,Yes,No,No,Yes,No,No
+11/9/2023 21:33,F,HU,Business,(10 - 40) JD,B,1,No,Yes,Yes,Yes,No,No,No,No
+11/9/2023 21:37,F,HU,Childhood,(10 - 40) JD,B,2,No,Yes,Yes,No,No,No,No,No
+11/9/2023 21:40,F,HU,Science,(10 - 40) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/9/2023 21:41,F,HU,Business,(45 - 80) JD,C,3,Yes,No,No,No,Yes,No,No,No
+11/9/2023 21:42,F,HU,Science,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 21:42,F,HU,Childhood,(10 - 40) JD,C,4,Yes,Yes,No,No,No,No,No,No
+11/9/2023 21:42,M,JU,Science,(10 - 40) JD,D,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 21:45,M,HU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/9/2023 21:46,F,HU,Nursing,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/9/2023 21:47,F,MU,Medicine,(80+) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 21:47,F,JU,Literature,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/9/2023 21:48,F,JUST,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 21:53,F,HU,Medicine,(45 - 80) JD,B,1,No,No,No,No,Yes,No,No,No
+11/9/2023 21:54,M,HU,Business,(10 - 40) JD,D,2,No,Yes,No,No,Yes,No,No,No
+11/9/2023 21:56,F,JU,Foreign Languages,(45 - 80) JD,B,1,No,Yes,No,No,Yes,No,No,No
+11/9/2023 21:56,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,No,No,No,Yes,Yes,No,Yes
+11/9/2023 21:57,F,BAUM,Medicine,(80+) JD,A,2,Yes,No,Yes,Yes,Yes,No,No,No
+11/9/2023 21:57,F,HU,Tourism,(10 - 40) JD,A,1,No,Yes,No,No,Yes,Yes,No,Yes
+11/9/2023 22:01,M,MU,Engineering,(10 - 40) JD,C,4,Yes,Yes,No,Yes,Yes,No,No,No
+11/9/2023 22:02,F,HU,Literature,(10 - 40) JD,A,3,No,No,No,Yes,Yes,No,No,No
+11/9/2023 22:05,F,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 22:05,M,HU,Nursing,(10 - 40) JD,A,2,Yes,Yes,Yes,No,No,No,No,No
+11/9/2023 22:06,F,HU,Science,(10 - 40) JD,A,3,Yes,No,Yes,No,Yes,No,No,No
+11/9/2023 22:06,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 22:07,F,HU,Allied Medical Sciences,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/9/2023 22:08,F,HU,Engineering,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/9/2023 22:09,F,MU,Medicine,(80+) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 22:09,F,HU,Educational Sciences,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/9/2023 22:10,F,MU,Medicine,(45 - 80) JD,C,3,Yes,No,No,No,No,No,No,No
+11/9/2023 22:11,F,HU,Pharmacy,(45 - 80) JD,B,3,No,Yes,Yes,Yes,No,Yes,No,No
+11/9/2023 22:11,M,HU,Business,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/9/2023 22:11,F,HU,Educational Sciences,(10 - 40) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 22:12,F,JU,Literature,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+11/9/2023 22:12,F,HU,Engineering,(45 - 80) JD,C,4,No,Yes,Yes,No,No,No,No,No
+11/9/2023 22:12,F,MU,Medicine,(80+) JD,B,3,No,No,No,No,No,No,No,No
+11/9/2023 22:12,F,HU,Allied Medical Sciences,(10 - 40) JD,C,1,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/9/2023 22:14,M,MU,Medicine,(10 - 40) JD,A,2,No,Yes,Yes,Yes,No,No,Yes,No
+11/9/2023 22:15,F,WISE,Information Technology,(45 - 80) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/9/2023 22:16,F,HU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 22:21,M,BAUM,Business,(10 - 40) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 22:22,F,HU,Engineering,(45 - 80) JD,C,3,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+11/9/2023 22:23,F,JU,Information Technology,(80+) JD,A,1,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+11/9/2023 22:27,F,HU,Science,(10 - 40) JD,A,2,No,No,No,No,Yes,No,Yes,No
+11/9/2023 22:27,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 22:27,F,HU,Science,(10 - 40) JD,B,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 22:29,F,JUST,Engineering,(10 - 40) JD,C,1,No,Yes,No,Yes,No,No,No,No
+11/9/2023 22:30,F,JU,Foreign Languages,(10 - 40) JD,B,4,No,Yes,No,Yes,No,No,No,No
+11/9/2023 22:32,F,HU,Childhood,(10 - 40) JD,A,3,No,Yes,No,No,Yes,No,Yes,Yes
+11/9/2023 22:33,F,HU,Science,(10 - 40) JD,C,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 22:35,F,MU,Medicine,(45 - 80) JD,B,3,Yes,No,Yes,Yes,Yes,No,No,No
+11/9/2023 22:35,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 22:37,F,HU,Pharmacy,(45 - 80) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 22:37,F,HU,Information Technology,(45 - 80) JD,A,4,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 22:38,F,HU,Business,(10 - 40) JD,B,2,No,No,No,No,No,Yes,No,No
+11/9/2023 22:48,F,YU,Literature,(10 - 40) JD,B,3,No,Yes,No,Yes,No,No,Yes,No
+11/9/2023 22:49,M,JU,Literature,(45 - 80) JD,B,1,No,No,Yes,Yes,No,No,No,No
+11/9/2023 22:51,F,JUST,Information Technology,(10 - 40) JD,A,3,Yes,No,Yes,No,Yes,No,No,No
+11/9/2023 22:52,F,YU,Educational Sciences,(10 - 40) JD,B,2,Yes,No,No,Yes,Yes,No,No,No
+11/9/2023 22:54,F,HU,Pharmacy,(45 - 80) JD,A,2,No,No,No,Yes,No,Yes,No,No
+11/9/2023 22:56,F,HU,Educational Sciences,(10 - 40) JD,B,4,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 22:56,F,HU,Pharmacy,(80+) JD,B,2,No,Yes,No,No,Yes,No,Yes,No
+11/9/2023 22:57,F,WISE,Information Technology,(45 - 80) JD,C,4,No,No,No,No,No,No,No,No
+11/9/2023 22:58,M,HU,Business,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/9/2023 22:58,F,MU,Science,(10 - 40) JD,B,3,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 23:01,F,MU,Medicine,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/9/2023 23:03,F,JU,Engineering,(80+) JD,A,1,No,No,No,No,Yes,Yes,No,Yes
+11/9/2023 23:05,M,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/9/2023 23:08,F,HU,Pharmacy,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/9/2023 23:09,F,HU,Science,(10 - 40) JD,B,4,No,No,Yes,Yes,No,Yes,No,No
+11/9/2023 23:11,F,HU,Educational Sciences,(10 - 40) JD,B,3,Yes,Yes,No,Yes,No,No,No,No
+11/9/2023 23:13,F,JU,Medicine,(45 - 80) JD,A,2,Yes,Yes,No,No,No,No,No,No
+11/9/2023 23:15,M,HU,Engineering,(10 - 40) JD,B,5,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/9/2023 23:16,M,MU,Engineering,(10 - 40) JD,C,4,No,No,Yes,No,Yes,No,Yes,No
+11/9/2023 23:18,F,JU,Foreign Languages,(10 - 40) JD,B,1,No,Yes,Yes,No,No,No,No,No
+11/9/2023 23:30,F,MU,Medicine,(10 - 40) JD,C,3,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/9/2023 23:30,F,MU,Science,(10 - 40) JD,D,1,No,Yes,No,Yes,No,Yes,No,No
+11/9/2023 23:35,F,HU,Allied Medical Sciences,(45 - 80) JD,B,3,No,Yes,Yes,No,Yes,No,No,No
+11/9/2023 23:36,F,AMAU,Business,(45 - 80) JD,D,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 23:36,F,AMAU,Business,(80+) JD,B,1,No,Yes,No,No,No,No,Yes,No
+11/9/2023 23:37,M,AMAU,Business,(45 - 80) JD,A,1,No,Yes,No,No,No,No,No,No
+11/9/2023 23:37,F,AMAU,Business,(80+) JD,C,1,Yes,No,No,No,Yes,No,No,Yes
+11/9/2023 23:37,F,AMAU,Business,(80+) JD,C,1,Yes,No,No,No,Yes,No,No,Yes
+11/9/2023 23:37,M,AMAU,Business,(80+) JD,C,3,Yes,Yes,No,No,No,No,No,No
+11/9/2023 23:38,F,JUST,Engineering,(10 - 40) JD,B,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/9/2023 23:38,F,AMAU,Business,(80+) JD,B,2,No,Yes,No,Yes,No,No,No,No
+11/9/2023 23:42,M,AMAU,Business,(80+) JD,A,2,Yes,Yes,No,No,Yes,No,No,No
+11/9/2023 23:48,M,HU,Business,(45 - 80) JD,A,3,No,Yes,No,No,No,No,No,No
+11/9/2023 23:48,F,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,Yes,No,No,Yes,No,Yes
+11/9/2023 23:49,M,HU,Business,(45 - 80) JD,A,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/9/2023 23:51,M,HU,Business,(10 - 40) JD,B,2,No,No,Yes,No,No,Yes,No,No
+11/9/2023 23:52,F,AMAU,Business,(80+) JD,B,4,Yes,No,No,No,Yes,No,No,Yes
+11/9/2023 23:52,F,AMAU,Business,(80+) JD,A,4,Yes,No,No,No,Yes,No,No,No
+11/9/2023 23:53,F,WISE,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,No,No,Yes,No,No
+11/9/2023 23:55,M,HU,Business,(10 - 40) JD,B,2,No,Yes,Yes,No,No,Yes,No,No
+11/9/2023 23:56,M,AMAU,Business,(80+) JD,C,2,No,Yes,No,No,Yes,Yes,No,Yes
+11/9/2023 23:57,M,HU,Business,(10 - 40) JD,B,2,No,Yes,Yes,No,Yes,No,Yes,No
+11/10/2023 0:03,M,HU,Business,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 0:03,F,HU,Childhood,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 0:04,F,HU,Science,(10 - 40) JD,B,4,No,No,No,No,No,No,No,No
+11/10/2023 0:07,F,HU,Engineering,(45 - 80) JD,C,1,No,Yes,No,No,Yes,No,No,No
+11/10/2023 0:14,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 0:17,M,HU,Business,(10 - 40) JD,A,5,No,Yes,No,Yes,Yes,Yes,No,No
+11/10/2023 0:18,F,HU,Allied Medical Sciences,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 0:26,F,AMAU,Business,(45 - 80) JD,A,1,No,No,No,No,No,Yes,No,No
+11/10/2023 0:29,F,HU,Engineering,(10 - 40) JD,A,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 0:35,F,AMAU,Business,(80+) JD,D,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 0:36,F,BAUM,Science,(80+) JD,A,1,No,No,No,No,Yes,No,No,No
+11/10/2023 0:37,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 0:39,F,HU,Literature,(10 - 40) JD,A,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 0:43,F,AMAU,Business,(80+) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 0:44,F,AMAU,Business,(80+) JD,A,3,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 0:47,F,HU,Engineering,(45 - 80) JD,B,1,Yes,Yes,Yes,No,No,No,No,Yes
+11/10/2023 0:48,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,No,No,No,No,No,No
+11/10/2023 0:57,M,JUST,Allied Medical Sciences,(45 - 80) JD,B,1,No,No,Yes,No,No,No,No,No
+11/10/2023 0:59,F,MU,Medicine,(80+) JD,B,3,Yes,No,Yes,No,Yes,No,No,Yes
+11/10/2023 0:59,M,JU,Rights,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/10/2023 1:02,F,HU,Allied Medical Sciences,(10 - 40) JD,B,3,No,Yes,Yes,No,Yes,No,No,No
+11/10/2023 1:08,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/10/2023 1:14,F,WISE,Information Technology,(45 - 80) JD,A,3,No,Yes,Yes,No,No,No,Yes,No
+11/10/2023 1:24,F,MU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/10/2023 1:27,F,HU,Literature,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,Yes,No
+11/10/2023 1:44,F,YU,Rights,(45 - 80) JD,A,2,No,Yes,No,No,No,No,No,No
+11/10/2023 1:45,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 2:08,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/10/2023 2:09,M,HU,Literature,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/10/2023 2:15,F,HU,Business,(45 - 80) JD,B,2,No,Yes,No,No,Yes,Yes,No,No
+11/10/2023 2:19,M,MU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 2:23,F,MU,Medicine,(80+) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+11/10/2023 2:25,F,HU,Business,(45 - 80) JD,B,3,Yes,Yes,Yes,No,Yes,No,Yes,No
+11/10/2023 2:35,M,WISE,Information Technology,(10 - 40) JD,B,4,No,No,No,Yes,Yes,No,Yes,No
+11/10/2023 2:48,M,YU,Engineering,(10 - 40) JD,A,1,No,No,No,No,No,Yes,No,Yes
+11/10/2023 2:56,M,HU,Business,(45 - 80) JD,C,1,No,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 3:19,F,HU,Childhood,(10 - 40) JD,B,1,No,Yes,No,No,Yes,No,Yes,No
+11/10/2023 3:25,F,MEU,Engineering,(45 - 80) JD,A,3,No,No,No,Yes,Yes,No,No,No
+11/10/2023 3:26,F,HU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 3:28,M,MU,Medicine,(80+) JD,D,2,Yes,Yes,No,No,No,No,No,Yes
+11/10/2023 3:33,M,BAUM,Business,(10 - 40) JD,B,1,No,Yes,Yes,Yes,Yes,Yes,No,No
+11/10/2023 3:40,M,YU,Literature,(80+) JD,B,3,No,Yes,Yes,No,No,No,No,No
+11/10/2023 4:08,F,YU,Literature,(45 - 80) JD,A,1,No,Yes,No,No,Yes,No,No,No
+11/10/2023 4:32,F,YU,Arts and Design,(45 - 80) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/10/2023 4:40,F,HU,Business,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 5:11,F,HU,Literature,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 5:15,M,AAB,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/10/2023 6:03,F,AMAU,Business,(80+) JD,B,1,No,No,No,No,No,No,No,No
+11/10/2023 6:36,F,HU,Pharmacy,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 7:34,M,MU,Rights,(10 - 40) JD,A,3,No,No,No,No,Yes,No,No,No
+11/10/2023 8:01,M,YU,Literature,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 9:03,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,No,No,No,Yes,Yes,No,Yes
+11/10/2023 9:05,F,JU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,No,No,Yes,No,Yes,Yes
+11/10/2023 9:06,M,HU,Engineering,(10 - 40) JD,C,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/10/2023 9:08,F,HU,Literature,(10 - 40) JD,C,3,No,No,No,No,Yes,No,No,No
+11/10/2023 9:12,F,HU,Business,(45 - 80) JD,C,2,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 9:13,F,HU,Allied Medical Sciences,(10 - 40) JD,C,4,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/10/2023 9:30,F,HU,Business,(10 - 40) JD,B,2,No,No,No,Yes,Yes,No,No,No
+11/10/2023 9:39,M,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/10/2023 9:44,F,JU,Allied Medical Sciences,(10 - 40) JD,B,2,No,Yes,Yes,Yes,No,Yes,Yes,No
+11/10/2023 10:22,F,HU,Natural Resources,(10 - 40) JD,D,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 10:30,M,HU,Business,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 10:32,F,JUST,Engineering,(10 - 40) JD,A,5,No,No,No,No,Yes,Yes,No,Yes
+11/10/2023 10:34,F,HU,Business,(10 - 40) JD,B,3,Yes,No,Yes,Yes,Yes,No,No,No
+11/10/2023 10:35,F,HU,Childhood,(10 - 40) JD,A,4,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 10:35,F,MU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 10:51,M,AMAU,Business,(45 - 80) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 10:58,F,HU,Childhood,(10 - 40) JD,B,2,No,Yes,Yes,Yes,No,No,Yes,No
+11/10/2023 11:00,F,HU,Allied Medical Sciences,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 11:02,F,AMAU,Business,(80+) JD,B,1,No,No,No,No,Yes,No,No,No
+11/10/2023 11:10,F,HU,Literature,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 11:11,F,AAB,Engineering,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/10/2023 11:15,M,HU,Engineering,(10 - 40) JD,B,1,Yes,Yes,No,Yes,No,No,No,No
+11/10/2023 11:19,F,HU,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 11:20,M,MU,Engineering,(10 - 40) JD,C,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 11:21,F,AMAU,Business,(80+) JD,B,2,No,No,No,No,Yes,No,No,No
+11/10/2023 11:23,M,MU,Engineering,(10 - 40) JD,C,5,Yes,No,Yes,Yes,Yes,No,Yes,No
+11/10/2023 11:24,F,HU,Childhood,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/10/2023 11:27,M,JUST,Engineering,(10 - 40) JD,A,2,Yes,No,No,No,Yes,Yes,No,No
+11/10/2023 11:39,M,MU,Engineering,(10 - 40) JD,C,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 11:45,F,JUST,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/10/2023 11:54,M,JUST,Engineering,(45 - 80) JD,C,2,Yes,Yes,No,No,No,No,Yes,Yes
+11/10/2023 11:58,F,JUST,Allied Medical Sciences,(45 - 80) JD,A,1,No,Yes,No,No,Yes,No,No,Yes
+11/10/2023 11:59,F,HU,Educational Sciences,(10 - 40) JD,B,4,Yes,No,No,No,No,No,No,No
+11/10/2023 12:09,F,HU,Allied Medical Sciences,(10 - 40) JD,B,3,No,Yes,Yes,No,Yes,Yes,No,No
+11/10/2023 12:09,F,HU,Science,(10 - 40) JD,C,3,Yes,No,Yes,No,Yes,No,No,No
+11/10/2023 12:12,F,HU,Literature,(10 - 40) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/10/2023 12:13,M,AMAU,Business,(45 - 80) JD,A,1,No,Yes,No,No,Yes,No,No,No
+11/10/2023 12:14,F,HU,Business,(10 - 40) JD,C,1,No,No,No,No,No,No,No,No
+11/10/2023 12:20,F,JUST,Engineering,(80+) JD,C,3,Yes,Yes,Yes,No,No,No,Yes,Yes
+11/10/2023 12:23,F,HU,Information Technology,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/10/2023 12:24,F,YU,Rights,(10 - 40) JD,C,2,No,No,Yes,No,No,No,No,No
+11/10/2023 12:25,F,JU,Sharia,(10 - 40) JD,B,3,Yes,No,No,Yes,Yes,No,No,No
+11/10/2023 12:29,F,YU,Educational Sciences,(10 - 40) JD,B,2,Yes,No,No,Yes,Yes,No,No,No
+11/10/2023 12:31,F,HU,Engineering,(10 - 40) JD,C,5,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 12:53,M,HU,Engineering,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 12:53,F,JUST,Engineering,(10 - 40) JD,B,2,Yes,No,No,Yes,Yes,No,No,Yes
+11/10/2023 13:05,F,WISE,Information Technology,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 13:07,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,No,Yes,No,No,No,Yes
+11/10/2023 13:13,F,AMAU,Business,(80+) JD,B,2,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 13:19,F,HU,Allied Medical Sciences,(10 - 40) JD,B,2,No,Yes,Yes,No,Yes,Yes,No,No
+11/10/2023 13:30,M,HU,Business,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 13:34,M,AMAU,Business,(45 - 80) JD,B,1,No,Yes,Yes,Yes,No,No,Yes,Yes
+11/10/2023 13:35,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/10/2023 13:36,F,HU,Business,(10 - 40) JD,B,2,No,No,No,No,No,No,No,No
+11/10/2023 13:39,F,YU,Tourism,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 13:40,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 13:48,F,HU,Business,(45 - 80) JD,C,3,Yes,Yes,No,No,No,No,No,No
+11/10/2023 13:50,F,HU,Educational Sciences,(10 - 40) JD,C,2,No,No,No,Yes,No,No,No,No
+11/10/2023 13:50,M,HU,Business,(10 - 40) JD,A,1,Yes,Yes,Yes,No,No,No,No,No
+11/10/2023 13:58,F,YU,Rights,(10 - 40) JD,C,2,Yes,Yes,No,No,No,No,No,No
+11/10/2023 14:12,M,YU,Sharia,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,Yes
+11/10/2023 14:18,F,YU,Sharia,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 14:20,M,AMAU,Business,(80+) JD,D,1,No,Yes,Yes,Yes,No,No,Yes,No
+11/10/2023 14:21,F,AAB,Nursing,(45 - 80) JD,C,4,Yes,No,No,Yes,No,No,No,Yes
+11/10/2023 14:25,F,YU,Sharia,(10 - 40) JD,A,4,No,No,No,No,Yes,Yes,No,No
+11/10/2023 14:27,F,HU,Engineering,(10 - 40) JD,B,2,No,No,No,No,Yes,Yes,No,No
+11/10/2023 14:28,M,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/10/2023 14:37,M,HU,Science,(10 - 40) JD,C,1,Yes,No,No,No,Yes,No,No,No
+11/10/2023 14:41,F,HU,Childhood,(10 - 40) JD,B,4,No,Yes,Yes,No,No,No,No,Yes
+11/10/2023 14:47,F,YU,Sharia,(10 - 40) JD,A,4,No,No,No,Yes,Yes,No,No,No
+11/10/2023 14:49,M,HU,Business,(45 - 80) JD,D,1,No,Yes,No,No,No,No,No,No
+11/10/2023 14:50,F,AAB,Nursing,(45 - 80) JD,B,7,No,Yes,Yes,No,Yes,Yes,No,No
+11/10/2023 14:51,F,HU,Business,(10 - 40) JD,C,3,No,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 14:52,F,AAB,Nursing,(10 - 40) JD,B,1,No,No,Yes,Yes,No,No,No,No
+11/10/2023 14:53,F,HU,Science,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 14:57,F,AMAU,Business,(45 - 80) JD,B,3,No,Yes,Yes,No,Yes,No,No,No
+11/10/2023 14:58,F,JU,Foreign Languages,(10 - 40) JD,C,3,Yes,No,Yes,Yes,Yes,Yes,No,No
+11/10/2023 14:59,F,HU,Science,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/10/2023 15:04,F,YU,Sharia,(10 - 40) JD,A,4,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/10/2023 15:09,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 15:10,F,AAB,Nursing,(10 - 40) JD,B,3,No,Yes,Yes,No,No,No,Yes,No
+11/10/2023 15:10,F,HU,Nursing,(45 - 80) JD,A,3,No,No,No,No,Yes,Yes,No,No
+11/10/2023 15:11,M,HU,Literature,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 15:14,F,AAB,Nursing,(10 - 40) JD,B,3,Yes,No,No,No,Yes,No,No,No
+11/10/2023 15:14,F,AAB,Nursing,(10 - 40) JD,B,2,No,Yes,Yes,No,No,No,No,No
+11/10/2023 15:21,F,AAB,Nursing,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/10/2023 15:23,F,AAB,Business,(10 - 40) JD,B,2,Yes,No,No,No,No,No,No,No
+11/10/2023 15:24,F,HU,Literature,(45 - 80) JD,C,2,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+11/10/2023 15:39,F,HU,Business,(10 - 40) JD,B,3,Yes,No,No,No,No,No,No,No
+11/10/2023 15:44,F,HU,Natural Resources,(10 - 40) JD,B,2,Yes,No,No,No,No,No,No,Yes
+11/10/2023 15:45,F,AAB,Business,(10 - 40) JD,C,1,No,Yes,No,No,No,No,No,No
+11/10/2023 16:00,M,YU,Sharia,(10 - 40) JD,B,1,No,No,No,Yes,No,Yes,No,No
+11/10/2023 16:08,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 16:09,F,AAB,Nursing,(10 - 40) JD,B,1,No,Yes,Yes,Yes,No,No,Yes,No
+11/10/2023 16:10,F,JU,Science,(10 - 40) JD,A,4,Yes,No,No,Yes,No,Yes,No,No
+11/10/2023 16:11,M,MU,Medicine,(45 - 80) JD,B,3,No,Yes,No,Yes,No,No,No,Yes
+11/10/2023 16:13,M,YU,Rights,(80+) JD,D,4,Yes,Yes,No,No,No,No,No,No
+11/10/2023 16:14,M,HU,Natural Resources,(10 - 40) JD,B,4,No,Yes,No,No,Yes,No,No,No
+11/10/2023 16:16,F,HU,Science,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 16:24,F,HU,Natural Resources,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/10/2023 16:25,F,AAB,Nursing,(10 - 40) JD,B,3,No,No,Yes,Yes,No,No,No,No
+11/10/2023 16:29,M,HU,Science,(10 - 40) JD,D,2,Yes,Yes,No,No,No,No,No,No
+11/10/2023 16:31,M,JU,Educational Sciences,(10 - 40) JD,B,1,Yes,No,No,No,Yes,No,No,No
+11/10/2023 16:34,F,HU,Allied Medical Sciences,(10 - 40) JD,A,1,No,No,No,No,No,No,Yes,No
+11/10/2023 16:37,M,YU,Medicine,(80+) JD,B,2,Yes,No,Yes,Yes,Yes,No,No,No
+11/10/2023 16:52,F,HU,Pharmacy,(45 - 80) JD,A,2,No,No,No,Yes,No,No,No,No
+11/10/2023 16:59,F,HU,Natural Resources,(10 - 40) JD,C,2,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/10/2023 17:03,M,YU,Business,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/10/2023 17:05,F,YU,Literature,(10 - 40) JD,C,2,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 17:09,M,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 17:10,M,HU,Medicine,(80+) JD,A,1,No,Yes,No,No,No,No,No,No
+11/10/2023 17:11,F,AAB,Science,(10 - 40) JD,C,1,No,Yes,Yes,No,Yes,No,No,No
+11/10/2023 17:11,F,JU,Engineering,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 17:17,F,HU,Nursing,(10 - 40) JD,A,4,Yes,No,Yes,No,No,No,No,No
+11/10/2023 17:20,F,HU,Rights,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 17:22,F,HU,Natural Resources,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 17:23,F,HU,Childhood,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+11/10/2023 17:25,F,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/10/2023 17:26,F,HU,Natural Resources,(10 - 40) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 17:27,F,JU,Allied Medical Sciences,(10 - 40) JD,B,1,No,Yes,Yes,No,No,Yes,Yes,No
+11/10/2023 17:29,F,HU,Information Technology,(45 - 80) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+11/10/2023 17:29,F,HU,Childhood,(10 - 40) JD,A,4,Yes,No,No,No,No,No,No,Yes
+11/10/2023 17:31,M,MU,Medicine,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/10/2023 17:32,M,HU,Nursing,(10 - 40) JD,A,3,No,No,No,No,No,No,No,No
+11/10/2023 17:34,F,JU,Pharmacy,(80+) JD,A,1,Yes,No,No,No,No,No,Yes,No
+11/10/2023 17:37,M,HU,Medicine,(80+) JD,A,1,No,No,No,Yes,No,No,No,No
+11/10/2023 17:37,M,HU,Science,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/10/2023 17:38,F,HU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/10/2023 17:38,F,AAB,Nursing,(10 - 40) JD,C,4,Yes,Yes,No,Yes,No,No,No,No
+11/10/2023 17:43,F,YU,Science,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/10/2023 17:52,F,HU,Nursing,(45 - 80) JD,C,2,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 17:53,M,AAB,Nursing,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 17:56,F,YU,Sharia,(10 - 40) JD,A,2,No,No,No,No,No,No,No,No
+11/10/2023 17:56,M,JUST,Engineering,(10 - 40) JD,B,4,No,No,No,Yes,Yes,No,No,No
+11/10/2023 17:57,M,YU,Sharia,(10 - 40) JD,A,1,No,No,No,No,Yes,Yes,Yes,No
+11/10/2023 18:03,M,AMAU,Business,(45 - 80) JD,C,3,No,Yes,No,No,No,No,No,No
+11/10/2023 18:12,F,AMAU,Business,(80+) JD,B,3,No,No,No,Yes,No,Yes,Yes,No
+11/10/2023 18:14,F,YU,Sharia,(10 - 40) JD,B,3,Yes,Yes,No,No,No,No,No,No
+11/10/2023 18:17,F,AAB,Nursing,(10 - 40) JD,C,3,No,No,No,Yes,Yes,Yes,No,No
+11/10/2023 18:32,M,HU,Science,(10 - 40) JD,B,3,Yes,No,Yes,No,Yes,No,No,Yes
+11/10/2023 18:41,F,JU,Arts and Design,(45 - 80) JD,B,4,Yes,Yes,No,No,No,No,No,No
+11/10/2023 18:43,F,HU,Allied Medical Sciences,(10 - 40) JD,B,4,No,No,Yes,No,No,No,No,No
+11/10/2023 18:48,F,YU,Sharia,(10 - 40) JD,A,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 18:50,F,HU,Childhood,(10 - 40) JD,C,2,No,Yes,No,No,No,Yes,No,No
+11/10/2023 18:50,F,YU,Sharia,(10 - 40) JD,A,2,No,No,No,Yes,No,Yes,No,No
+11/10/2023 18:55,F,HU,Science,(10 - 40) JD,B,2,Yes,No,No,Yes,No,No,No,No
+11/10/2023 19:01,M,YU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 19:06,F,HU,Tourism,(10 - 40) JD,A,4,Yes,Yes,No,Yes,Yes,No,Yes,No
+11/10/2023 19:11,F,YU,Rights,(10 - 40) JD,B,2,Yes,Yes,No,No,No,No,No,Yes
+11/10/2023 19:15,M,JUST,Engineering,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 19:17,F,JU,Engineering,(45 - 80) JD,A,1,No,Yes,No,No,Yes,No,Yes,No
+11/10/2023 19:19,M,YU,Sharia,(10 - 40) JD,B,4,Yes,Yes,No,Yes,No,No,No,Yes
+11/10/2023 19:24,M,HU,Engineering,(45 - 80) JD,C,4,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/10/2023 19:24,F,HU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/10/2023 19:25,F,HU,Engineering,(10 - 40) JD,B,2,No,Yes,Yes,No,No,No,Yes,No
+11/10/2023 19:26,M,HU,Engineering,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 19:27,F,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 19:27,F,YU,Sharia,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 19:28,M,HU,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/10/2023 19:28,F,HU,Engineering,(10 - 40) JD,B,2,No,Yes,Yes,No,Yes,No,No,No
+11/10/2023 19:28,M,HU,Medicine,(80+) JD,B,5,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 19:29,M,HU,Information Technology,(45 - 80) JD,D,3,No,Yes,Yes,No,No,No,No,Yes
+11/10/2023 19:29,F,HU,Engineering,(10 - 40) JD,B,3,No,Yes,Yes,No,Yes,Yes,No,No
+11/10/2023 19:30,M,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,No,No,No,No,No,No
+11/10/2023 19:31,F,AAB,Nursing,(10 - 40) JD,B,3,No,Yes,No,Yes,No,No,No,Yes
+11/10/2023 19:32,F,HU,Information Technology,(45 - 80) JD,C,2,No,No,Yes,No,Yes,Yes,No,No
+11/10/2023 19:33,M,HU,Engineering,(45 - 80) JD,D,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/10/2023 19:35,F,MU,Information Technology,(45 - 80) JD,A,1,No,Yes,No,Yes,No,No,No,No
+11/10/2023 19:39,F,YU,Sharia,(10 - 40) JD,B,3,Yes,No,No,No,Yes,No,Yes,No
+11/10/2023 19:40,M,HU,Engineering,(10 - 40) JD,C,3,No,No,No,No,No,No,No,No
+11/10/2023 19:41,F,HU,Information Technology,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/10/2023 19:42,M,YU,Pharmacy,(45 - 80) JD,C,1,No,No,No,No,No,No,Yes,No
+11/10/2023 19:47,M,HU,Engineering,(10 - 40) JD,D,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 19:47,F,HU,Information Technology,(45 - 80) JD,B,2,No,Yes,No,No,No,Yes,Yes,No
+11/10/2023 19:48,M,HU,Engineering,(10 - 40) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,No
+11/10/2023 19:49,M,JU,Rights,(10 - 40) JD,A,1,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 19:53,M,HU,Engineering,(10 - 40) JD,B,3,Yes,Yes,No,No,Yes,No,No,No
+11/10/2023 19:56,F,BAUM,Engineering,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,No,Yes,No,No
+11/10/2023 19:59,M,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/10/2023 20:00,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 20:00,M,HU,Engineering,(10 - 40) JD,C,2,No,Yes,No,No,No,No,No,No
+11/10/2023 20:03,F,HU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/10/2023 20:09,F,JUST,Engineering,(10 - 40) JD,B,1,Yes,Yes,No,No,No,No,No,No
+11/10/2023 20:14,M,HU,Engineering,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 20:14,M,HU,Engineering,(80+) JD,B,4,No,No,No,No,Yes,No,No,No
+11/10/2023 20:16,F,YU,Sharia,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/10/2023 20:19,F,HU,Science,(10 - 40) JD,A,2,No,No,No,No,No,No,No,No
+11/10/2023 20:20,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,No,No,No,Yes,No
+11/10/2023 20:21,F,YU,Sharia,(10 - 40) JD,A,3,No,No,No,No,Yes,No,No,No
+11/10/2023 20:23,F,HU,Engineering,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 20:27,F,HU,Educational Sciences,(10 - 40) JD,B,3,Yes,No,No,No,No,No,No,No
+11/10/2023 20:30,F,AAB,Nursing,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 20:35,M,HU,Information Technology,(45 - 80) JD,A,2,No,Yes,No,No,Yes,No,Yes,No
+11/10/2023 20:35,F,HU,Natural Resources,(10 - 40) JD,B,1,No,Yes,No,No,Yes,No,No,No
+11/10/2023 20:39,F,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,Yes,Yes,No
+11/10/2023 20:42,F,YU,Engineering,(45 - 80) JD,B,2,Yes,Yes,Yes,No,No,No,No,Yes
+11/10/2023 20:43,F,HU,Allied Medical Sciences,(10 - 40) JD,B,1,No,No,No,No,No,Yes,No,No
+11/10/2023 20:57,F,HU,Literature,(10 - 40) JD,B,4,Yes,No,No,Yes,No,Yes,No,No
+11/10/2023 20:59,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/10/2023 21:02,F,JU,Allied Medical Sciences,(45 - 80) JD,B,4,Yes,Yes,No,No,No,No,No,No
+11/10/2023 21:05,F,HU,Engineering,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/10/2023 21:09,M,HU,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/10/2023 21:12,F,MU,Medicine,(45 - 80) JD,B,2,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/10/2023 21:15,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/10/2023 21:23,F,HU,Engineering,(80+) JD,C,4,Yes,Yes,Yes,No,Yes,No,No,Yes
+11/10/2023 21:24,F,HU,Information Technology,(45 - 80) JD,D,2,Yes,Yes,No,No,Yes,No,Yes,Yes
+11/10/2023 21:24,F,HU,Nursing,(10 - 40) JD,B,3,Yes,Yes,No,Yes,Yes,No,No,No
+11/10/2023 21:28,M,YU,Sharia,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/10/2023 21:45,M,HU,Information Technology,(45 - 80) JD,B,2,No,No,Yes,No,No,No,Yes,No
+11/10/2023 21:52,F,YU,Engineering,(45 - 80) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/10/2023 21:53,F,HU,Dentistry,(80+) JD,A,1,No,No,No,No,Yes,No,No,No
+11/10/2023 21:56,F,YU,Engineering,(10 - 40) JD,B,5,No,Yes,No,No,Yes,No,No,No
+11/10/2023 22:07,F,HU,Engineering,(10 - 40) JD,C,2,No,Yes,No,No,No,No,No,No
+11/10/2023 22:10,M,HU,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 22:17,M,HU,Engineering,(45 - 80) JD,D,2,Yes,No,Yes,Yes,Yes,No,Yes,No
+11/10/2023 22:22,F,IU,Business,(10 - 40) JD,A,4,No,No,No,No,Yes,No,No,No
+11/10/2023 22:26,F,YU,Literature,(10 - 40) JD,B,3,Yes,No,Yes,No,No,No,No,Yes
+11/10/2023 22:48,F,HU,Science,(10 - 40) JD,B,2,Yes,No,Yes,Yes,No,No,No,Yes
+11/10/2023 23:09,F,JUST,Science,(45 - 80) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 23:22,F,HU,Business,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,No,No,No,Yes
+11/10/2023 23:24,F,HU,Tourism,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,Yes,No
+11/10/2023 23:24,F,HU,Tourism,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,Yes,No
+11/10/2023 23:37,M,AHU,Literature,(10 - 40) JD,A,3,No,No,No,No,No,No,No,No
+11/10/2023 23:46,M,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/10/2023 23:49,F,AAB,Nursing,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/10/2023 23:50,M,HU,Pharmacy,(80+) JD,A,2,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/10/2023 23:55,F,YU,Sharia,(10 - 40) JD,A,1,No,No,No,No,Yes,No,No,No
+11/10/2023 23:58,M,AAB,Nursing,(10 - 40) JD,B,1,No,No,No,No,No,No,No,No
+11/11/2023 0:16,F,HU,Business,(10 - 40) JD,C,3,Yes,No,No,Yes,No,No,Yes,No
+11/11/2023 0:59,M,HU,Dentistry,(80+) JD,B,1,Yes,Yes,No,No,Yes,No,No,No
+11/11/2023 1:16,F,AAB,Nursing,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/11/2023 1:24,F,HU,Science,(10 - 40) JD,D,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/11/2023 1:25,F,YU,Sharia,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/11/2023 2:50,F,BAUM,Sharia,(10 - 40) JD,A,2,No,No,No,No,No,No,No,No
+11/11/2023 2:59,F,HU,Business,(10 - 40) JD,C,3,Yes,Yes,No,Yes,Yes,No,No,Yes
+11/11/2023 3:08,F,WISE,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 3:18,F,YU,Engineering,(10 - 40) JD,C,3,No,No,No,Yes,Yes,No,No,No
+11/11/2023 4:18,F,YU,Sharia,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,No,No
+11/11/2023 4:57,F,JUST,Engineering,(10 - 40) JD,B,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/11/2023 5:20,F,YU,Sharia,(10 - 40) JD,B,3,No,No,No,No,Yes,No,No,No
+11/11/2023 6:00,F,HU,Educational Sciences,(10 - 40) JD,B,1,No,Yes,No,No,Yes,No,No,No
+11/11/2023 6:34,F,AAB,Nursing,(10 - 40) JD,B,4,Yes,No,No,No,Yes,No,No,No
+11/11/2023 6:45,F,HU,Natural Resources,(10 - 40) JD,B,4,No,No,No,No,No,No,No,No
+11/11/2023 7:07,M,HU,Nursing,(45 - 80) JD,A,1,No,No,No,Yes,No,No,Yes,No
+11/11/2023 7:35,F,HU,Business,(10 - 40) JD,B,3,No,Yes,No,No,No,No,No,No
+11/11/2023 7:40,F,HU,Allied Medical Sciences,(10 - 40) JD,D,3,Yes,Yes,No,No,No,No,No,Yes
+11/11/2023 8:14,F,AAB,Engineering,(10 - 40) JD,A,2,No,Yes,No,Yes,Yes,No,No,Yes
+11/11/2023 8:25,F,HU,Engineering,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 8:32,F,HU,Information Technology,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/11/2023 9:49,F,YU,Literature,(10 - 40) JD,C,4,Yes,Yes,No,Yes,No,No,No,Yes
+11/11/2023 10:21,F,YU,Literature,(10 - 40) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 10:21,F,JUST,Engineering,(10 - 40) JD,B,5,Yes,No,No,No,Yes,No,No,No
+11/11/2023 10:54,F,HU,Pharmacy,(80+) JD,A,1,No,No,No,No,Yes,No,No,No
+11/11/2023 11:03,F,JU,Dentistry,(10 - 40) JD,A,1,Yes,Yes,No,No,Yes,No,Yes,No
+11/11/2023 11:28,F,AAB,Nursing,(10 - 40) JD,A,3,No,No,No,No,Yes,No,No,No
+11/11/2023 11:32,F,YU,Literature,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/11/2023 11:35,M,HU,Medicine,(80+) JD,A,1,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/11/2023 12:21,F,HU,Engineering,(10 - 40) JD,A,2,No,No,No,No,Yes,No,No,Yes
+11/11/2023 12:41,F,HU,Mathematics,(10 - 40) JD,A,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+11/11/2023 12:43,F,YU,Sharia,(45 - 80) JD,B,4,No,No,No,Yes,Yes,No,No,No
+11/11/2023 12:49,F,MEU,Educational Sciences,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,No,No,No
+11/11/2023 12:52,F,HU,Information Technology,(45 - 80) JD,D,1,No,No,No,No,No,No,No,No
+11/11/2023 13:13,F,HU,Natural Resources,(10 - 40) JD,D,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+11/11/2023 13:18,F,HU,Tourism,(10 - 40) JD,B,4,Yes,Yes,No,No,Yes,No,Yes,No
+11/11/2023 13:50,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 13:59,F,HU,Educational Sciences,(10 - 40) JD,D,3,No,Yes,Yes,Yes,Yes,No,No,Yes
+11/11/2023 14:04,F,AAB,Nursing,(10 - 40) JD,B,2,No,No,No,Yes,No,No,No,No
+11/11/2023 14:07,F,HU,Tourism,(10 - 40) JD,D,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/11/2023 14:13,F,HU,Engineering,(45 - 80) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 14:23,F,HU,Natural Resources,(10 - 40) JD,D,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/11/2023 14:27,F,HU,Science,(10 - 40) JD,B,3,No,No,No,No,Yes,No,No,Yes
+11/11/2023 14:56,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,Yes,No,No
+11/11/2023 15:00,M,HU,Pharmacy,(80+) JD,B,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 15:04,F,JUST,Allied Medical Sciences,(10 - 40) JD,A,2,No,Yes,No,No,No,No,No,No
+11/11/2023 15:44,F,AAB,Foreign Languages,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/11/2023 15:46,F,AAB,Foreign Languages,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/11/2023 15:48,F,HU,Childhood,(10 - 40) JD,B,2,Yes,Yes,No,No,No,No,No,Yes
+11/11/2023 16:07,F,HU,Science,(10 - 40) JD,B,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/11/2023 16:19,F,AAB,Foreign Languages,(10 - 40) JD,D,3,No,Yes,No,No,Yes,No,Yes,Yes
+11/11/2023 16:21,F,HU,Engineering,(45 - 80) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/11/2023 16:44,F,HU,Childhood,(45 - 80) JD,C,3,Yes,Yes,No,No,No,No,No,Yes
+11/11/2023 17:30,F,JUST,Engineering,(10 - 40) JD,B,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/11/2023 17:48,F,JUST,Pharmacy,(45 - 80) JD,A,1,No,No,No,No,Yes,No,No,No
+11/11/2023 18:12,F,AMAU,Business,(80+) JD,C,1,No,No,No,No,No,No,No,No
+11/11/2023 18:21,M,HU,Engineering,(10 - 40) JD,D,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/11/2023 18:28,F,JU,Science,(45 - 80) JD,C,4,Yes,Yes,No,Yes,Yes,No,No,No
+11/11/2023 18:35,M,PSUT,Engineering,(80+) JD,C,2,Yes,No,Yes,Yes,No,No,Yes,No
+11/11/2023 19:08,F,YU,Literature,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/11/2023 19:09,F,HU,Engineering,(10 - 40) JD,B,2,No,Yes,No,No,No,Yes,No,No
+11/11/2023 20:20,F,HU,Medicine,(80+) JD,A,3,No,No,No,No,Yes,No,No,No
+11/11/2023 21:11,F,PSUT,Information Technology,(80+) JD,B,4,Yes,Yes,Yes,No,No,No,Yes,Yes
+11/11/2023 21:18,F,HU,Natural Resources,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 21:24,M,MU,Medicine,(80+) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/11/2023 21:32,F,HU,Science,(10 - 40) JD,A,4,No,Yes,Yes,No,No,No,No,No
+11/11/2023 22:43,M,WISE,Information Technology,(45 - 80) JD,C,2,No,No,No,Yes,No,No,Yes,Yes
+11/11/2023 22:58,F,AAB,Foreign Languages,(10 - 40) JD,B,2,No,Yes,Yes,No,Yes,No,No,Yes
+11/11/2023 23:02,F,HU,Childhood,(10 - 40) JD,B,4,Yes,Yes,No,Yes,Yes,Yes,No,No
+11/12/2023 0:26,M,HU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+11/12/2023 1:16,F,BAUM,Allied Medical Sciences,(10 - 40) JD,C,1,No,No,Yes,Yes,Yes,No,Yes,No
+11/12/2023 1:34,M,HU,Business,(10 - 40) JD,B,3,Yes,Yes,Yes,No,No,No,No,No
+11/12/2023 1:36,M,HU,Business,(10 - 40) JD,C,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/12/2023 2:06,M,MU,Medicine,(45 - 80) JD,B,3,No,No,No,No,No,Yes,Yes,No
+11/12/2023 3:18,F,HU,Childhood,(10 - 40) JD,B,3,Yes,No,No,Yes,Yes,No,No,No
+11/12/2023 4:19,M,HU,Information Technology,(45 - 80) JD,B,2,No,Yes,Yes,No,No,Yes,Yes,No
+11/12/2023 8:10,F,HU,Educational Sciences,(80+) JD,A,2,No,No,No,No,No,No,No,Yes
+11/12/2023 8:48,F,JUST,Medicine,(10 - 40) JD,A,1,No,No,No,No,No,No,No,No
+11/12/2023 9:23,F,WISE,Engineering,(45 - 80) JD,B,2,No,Yes,Yes,No,No,Yes,No,No
+11/12/2023 10:17,M,BAUM,Nursing,(10 - 40) JD,C,2,Yes,Yes,No,Yes,No,No,No,No
+11/12/2023 11:17,F,HU,Science,(10 - 40) JD,B,1,No,Yes,No,No,No,No,No,No
+11/12/2023 11:31,F,HU,Information Technology,(45 - 80) JD,C,2,No,No,Yes,Yes,Yes,Yes,No,Yes
+11/12/2023 11:58,M,HU,Information Technology,(45 - 80) JD,D,3,Yes,Yes,Yes,No,Yes,No,No,No
+11/12/2023 13:11,F,HU,Science,(10 - 40) JD,C,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/12/2023 14:24,F,JUST,Dentistry,(10 - 40) JD,B,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/12/2023 14:29,F,HU,Business,(10 - 40) JD,A,4,No,No,No,No,Yes,Yes,No,No
+11/12/2023 14:59,F,YU,Literature,(10 - 40) JD,B,3,No,Yes,No,No,No,No,No,No
+11/12/2023 15:06,F,JU,Literature,(10 - 40) JD,A,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/12/2023 15:16,F,AAB,Nursing,(10 - 40) JD,C,2,Yes,Yes,Yes,Yes,No,No,Yes,No
+11/12/2023 16:18,F,HU,Engineering,(80+) JD,A,1,Yes,Yes,Yes,Yes,No,No,No,No
+11/12/2023 18:26,M,JU,Science,(10 - 40) JD,A,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+11/12/2023 18:47,M,BAUM,Nursing,(10 - 40) JD,A,1,No,Yes,Yes,No,Yes,No,No,No
+11/12/2023 19:13,M,AAB,Literature,(10 - 40) JD,B,3,No,Yes,Yes,Yes,Yes,No,Yes,No
+11/12/2023 19:14,F,JUST,Nursing,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/12/2023 20:32,F,AAB,Educational Sciences,(45 - 80) JD,A,7,No,Yes,Yes,Yes,Yes,No,No,Yes
+11/12/2023 20:33,F,AAB,Science,(10 - 40) JD,A,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/12/2023 20:40,F,YU,Sharia,(10 - 40) JD,A,2,No,Yes,No,No,No,No,No,No
+11/12/2023 20:47,F,HU,Educational Sciences,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/12/2023 21:16,F,MU,Medicine,(45 - 80) JD,C,3,Yes,Yes,Yes,Yes,No,No,No,No
+11/12/2023 22:56,F,WISE,Information Technology,(45 - 80) JD,C,2,Yes,Yes,No,No,Yes,No,No,No
+11/13/2023 6:44,F,YU,Sharia,(10 - 40) JD,A,3,No,No,No,No,Yes,No,No,No
+11/13/2023 7:52,F,MU,Medicine,(45 - 80) JD,B,3,Yes,No,Yes,No,No,No,No,No
+11/13/2023 11:19,M,HU,Information Technology,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/13/2023 12:00,M,MU,Medicine,(80+) JD,B,2,Yes,Yes,Yes,Yes,No,No,No,No
+11/13/2023 14:33,F,WISE,Arts and Design,(10 - 40) JD,C,1,No,No,No,No,No,No,No,No
+11/13/2023 16:01,M,AMAU,Business,(80+) JD,A,2,No,No,Yes,Yes,Yes,No,No,Yes
+11/13/2023 17:29,F,HU,Natural Resources,(10 - 40) JD,D,2,Yes,Yes,No,No,Yes,No,No,Yes
+11/13/2023 19:50,M,HU,Engineering,(10 - 40) JD,B,1,Yes,Yes,No,Yes,No,No,No,Yes
+11/13/2023 21:37,M,HU,Natural Resources,(10 - 40) JD,B,1,Yes,No,No,No,Yes,No,No,No
+11/13/2023 22:41,F,IU,Literature,(10 - 40) JD,A,1,No,No,No,No,No,Yes,No,No
+11/14/2023 1:26,M,HU,Pharmacy,(45 - 80) JD,A,2,Yes,Yes,Yes,No,No,No,No,No
+11/14/2023 11:57,F,HU,Nursing,(10 - 40) JD,B,1,No,No,No,No,Yes,No,No,No
+11/14/2023 12:46,F,JUST,Science,(45 - 80) JD,B,1,No,Yes,Yes,No,No,No,Yes,No
+11/14/2023 13:26,F,JU,Business,(45 - 80) JD,B,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+11/14/2023 14:50,M,HU,Engineering,(10 - 40) JD,B,2,Yes,Yes,Yes,No,No,No,No,No
+11/14/2023 18:21,F,HU,Information Technology,(45 - 80) JD,D,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+11/14/2023 18:22,F,HU,Science,(10 - 40) JD,C,2,Yes,Yes,Yes,No,Yes,No,No,No
+11/15/2023 10:10,F,HU,Business,(10 - 40) JD,D,2,No,Yes,No,No,No,No,No,No
+11/15/2023 11:26,M,MU,Medicine,(80+) JD,B,2,No,Yes,No,No,Yes,No,No,No
+11/15/2023 12:26,F,JU,Educational Sciences,(10 - 40) JD,A,2,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+11/15/2023 13:40,M,WISE,Information Technology,(10 - 40) JD,B,4,No,Yes,No,No,No,Yes,Yes,No
+11/19/2023 10:01,F,HU,Business,(10 - 40) JD,B,3,No,No,No,No,No,Yes,No,Yes
+11/19/2023 10:33,F,HU,Engineering,(10 - 40) JD,B,2,No,No,No,No,Yes,No,No,No
+11/19/2023 23:38,F,HU,Information Technology,(45 - 80) JD,C,2,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/21/2023 7:01,F,AAB,Foreign Languages,(10 - 40) JD,D,3,No,No,No,No,No,No,No,No
+11/21/2023 10:04,F,HU,Information Technology,(45 - 80) JD,B,2,No,Yes,No,Yes,Yes,No,No,No
+11/26/2023 19:08,F,MU,Medicine,(45 - 80) JD,A,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+11/30/2023 17:11,M,HU,Information Technology,(80+) JD,D,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+12/12/2023 23:01,M,HU,Business,(45 - 80) JD,D,3,Yes,Yes,Yes,Yes,Yes,No,No,No
+12/14/2023 14:46,F,HU,Childhood,(10 - 40) JD,B,3,No,No,No,No,No,No,No,No
+12/19/2023 14:09,F,HU,Engineering,(45 - 80) JD,B,1,No,Yes,No,No,Yes,Yes,Yes,No
+12/21/2023 7:06,F,WISE,Information Technology,(45 - 80) JD,B,3,Yes,No,No,No,Yes,No,No,No
+1/1/2024 16:52,F,HU,Childhood,(80+) JD,B,4,No,Yes,Yes,Yes,Yes,No,No,Yes
